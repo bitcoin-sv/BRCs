@@ -1,0 +1,39 @@
+name: "💡 Proposed Idea for Standard"
+description: Start a new discussion about an idea for a standard
+title: "💡 [IDEA] - <title>"
+labels: [
+  "idea"
+]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: "Summary"
+      description: Provide a brief explanation of your idea
+      placeholder: Describe your idea for a new standard and explain why you think it would be useful
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: "Example"
+      description: Indicate at least one example of a situation where this standard will be useful
+      placeholder: This standard would be useful when...
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: "Other information"
+      description: Other things you'd like to add to get the discussion started?
+      placeholder: (optional)
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Relevance to BSV
+      description: This repository only accepts proposals for standards that are relevant to the Bitcoin SV network.
+      options:
+        - label: This proposal is relevant to the Bitcoin SV network
+          required: true

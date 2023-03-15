@@ -1,0 +1,22 @@
+name: "Discussion"
+description: Discuss an existing BRC standard in the repo.
+title: "[DISCUSSION] - <title>"
+labels: [
+  "discussion"
+]
+body:
+  - type: input
+    id: BRC
+    attributes:
+      label: "BRC ID #"
+      description: Enter the BRC ID(s) assigned to the relevant standard
+      placeholder: ex. 7 or 7,9,13
+    validations:
+      required: true
+  - type: textarea
+    id: discussion
+    attributes:
+      label: "Discussion"
+      description: Start your discussion about this standard
+    validations:
+      required: true
