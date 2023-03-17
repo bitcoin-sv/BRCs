@@ -2,7 +2,7 @@
 
 This directory contains standards for representing and conveying scripts written in the Bitcoin Scripting Language, pseudo-opcodes, and templates for specific types of scripts.
 
-BRC | Standard
+BRC  | Standard
 -----|------------------
 14   | Bitcoin Script Binary and Hex Formats
 15   | Bitcoin Script ASM Format

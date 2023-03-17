@@ -6,7 +6,7 @@ Read more about areas of interest on [OpenStandards.cash](https://openstandards.
 
 ## Background
 
-BRCs aims to provide a less formal and less strict process for proposing and discussing potential standards, templates, and protocols related to the Bitcoin network. BRCs will serve as a open platform for discussing and refining proposals, with the ultimate goal of promoting interoperability and standardization within the Bitcoin ecosystem.
+BRCs aim to provide a less formal and less strict process for proposing and discussing potential standards, templates, and protocols related to the Bitcoin network. BRCs will serve as an open platform for discussing and refining proposals, with the ultimate goal of promoting interoperability and standardization within the Bitcoin ecosystem.
 
 ## Structure
 
@@ -18,7 +18,7 @@ The BRCs repository is organized into directories, each representing a different
 
 Each proposal should be written as a markdown file and should loosely adhere to the following:
 
-- **Title:** A descriptive title for what your standard defins.
+- **Title:** A descriptive title for the standard being defined.
 - **Author(s):** Who wrote the standard and where did it come from? How can they be reached?
 - **Abstract:** A brief description of the proposed standard or template.
 - **Motivation:** The reasoning behind the proposal and why it is needed.
@@ -29,6 +29,8 @@ Each proposal should be written as a markdown file and should loosely adhere to 
 **Note** that additional relevant content, identifiers or other information may be added to the document. Documents that already existed before the repository may not follow these requirements.
 
 Things that help depict and understand the document, such as media, may also be added in a media subdirectory where appropriate.
+
+Refer to the [Banana-Powered Bitcoin Wallet Control Protocol](./EXAMPLE.md) for a fun example template you can copy when proposing your own standards.
 
 ## Standards
 
@@ -79,6 +81,7 @@ BRC | Standard
 43   | Security Levels, Protocol IDs, Key IDs and Counterparties
 44   | Admin-reserved and Prohibited Key Derivation Protocols
 45   | Definition of UTXOs as Bitcoin Tokens
+46   | Wallet Transaction Output Tracking (Output Baskets)
 
 ## Contributing
 
