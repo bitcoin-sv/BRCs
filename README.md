@@ -93,7 +93,7 @@ To participate in discussions about existing proposals, simply open an issue and
 
 We believe in encouraging discussion and iterative improvement of proposals, resulting in incremental improvement within the bounds of the Bitcoin protocol. We welcome suggestions for improvement and are committed to working with contributors to improve proposals and ensure that they align with our guidelines.
 
-**Note** that substantial revisions to standards (beyond fixing typos, adding context or wording) should go into a nw standard that extends or revises the old one, so as not to disrupt existing implementations.
+**Note** that substantial revisions to standards (beyond fixing typos, adding context or wording) should go into a new standard that extends or revises the old one, so as not to disrupt existing implementations.
 
 We look forward to your contributions and helping to create a world where transactions are seamlessly formed, and applications interact with each other with ease.
 
