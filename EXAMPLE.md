@@ -25,7 +25,7 @@ The purpose of this proposal is to provide a lighthearted example of how to crea
 
 > The Specification section of your proposal should stipulate all information needed to implement the standard, and make up the bulk of the document. Generally, people should be able to create a compatible implementation with only the specification.
 
-## Implementation
+## Implementations
 
 1. Wallet developers must carefully select the finest bananas available, ensuring they are both ripe and durable.
 2. A custom JavaScript library, BananaJS, must be developed for web-based applications to interact with the wallet using the BCP.
@@ -33,7 +33,7 @@ The purpose of this proposal is to provide a lighthearted example of how to crea
 4. Wallet developers must implement a "peel screech" alarm system for added security.
 5. Web-based applications must visually display the connection and energy status of each banana wallet.
 
-> The Implementation section should contain information about places where the standard is implemented, or examples of its implementation.
+> The Implementations section should contain information about places where the standard is implemented, or examples of its implementation.
 
 ## References
 
