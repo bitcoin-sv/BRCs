@@ -23,7 +23,7 @@ Each proposal should be written as a markdown file and should loosely adhere to 
 - **Abstract:** A brief description of the proposed standard or template.
 - **Motivation:** The reasoning behind the proposal and why it is needed.
 - **Specification:** A detailed technical specification of the proposal.
-- **Implementation:** Information on how the proposal has been or can be implemented.
+- **Implementations:** Information on how the proposal has been or can be implemented.
 - **References:** Any relevant literature or external resources related to the proposal.
 
 **Note** that additional relevant content, identifiers or other information may be added to the document. Documents that already existed before the repository may not follow these requirements.
@@ -78,7 +78,7 @@ BRC | Standard
 39   | User Wallet Data Format Encryption Extension
 40   | User Wallet Data Synchronization
 41   | PacketPay HTTP Payment Mechanism
-42   | Sendover Key Derivation Scheme
+42   | [Sendover Key Derivation Scheme](./key-derivation/0042.md)
 43   | Security Levels, Protocol IDs, Key IDs and Counterparties
 44   | Admin-reserved and Prohibited Key Derivation Protocols
 45   | Definition of UTXOs as Bitcoin Tokens
