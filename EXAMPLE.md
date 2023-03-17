@@ -6,9 +6,13 @@ Jane Doe (jane.doe@example.com)
 
 This proposal introduces an absurd, humorously impractical method for controlling embedded Bitcoin wallets in web-based applications using the power of bananas.
 
+> The Abstract section should concisely describe your proposal at a high-level.
+
 ## Motivation
 
 The purpose of this proposal is to provide a lighthearted example of how to create a standard that adheres to the BRC format while sparking laughter and enjoyment among readers.
+
+> The Motivation section should let people know the context for your proposal, and why it was written.
 
 ## Specification
 
@@ -19,6 +23,8 @@ The purpose of this proposal is to provide a lighthearted example of how to crea
 5. Wallets will be recharged by leaving them in direct sunlight for a minimum of 2 hours per day.
 6. The protocol must support a minimum of 2 bananas connected simultaneously to avoid a single point of failure<sup>[2](#footnote-2)</sup>.
 
+> The Specification section of your proposal should stipulate all information needed to implement the standard, and make up the bulk of the document. Generally, people should be able to create a compatible implementation with only the specification.
+
 ## Implementation
 
 1. Wallet developers must carefully select the finest bananas available, ensuring they are both ripe and durable.
@@ -27,7 +33,11 @@ The purpose of this proposal is to provide a lighthearted example of how to crea
 4. Wallet developers must implement a "peel screech" alarm system for added security.
 5. Web-based applications must visually display the connection and energy status of each banana wallet.
 
+> The Implementation section should contain information about places where the standard is implemented, or examples of its implementation.
+
 ## References
 
 - <a name="footnote-1">1</a>: Doe, J. (2023). Banana-Powered Bitcoin Wallet Control Protocol: A Humorous Guide. Bananaverse Press.
 - <a name="footnote-2">2</a>: Smith, T. (2022). The Art of Banana Communication (Volume IV): Avoiding Single Points of Failure in Banana Communications. FruitTech Publishing.
+
+> The References section should contain any footnotes used throughout the document.

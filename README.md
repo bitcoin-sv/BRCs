@@ -36,6 +36,7 @@ Refer to the [Banana-Powered Bitcoin Wallet Control Protocol](./EXAMPLE.md) for 
 
 BRC | Standard
 -----|------------------
+0    | [Banana-Powered Bitcoin Wallet Control Protocol](./EXAMPLE.md)
 1    | [Transaction Creation](./wallet/0001.md)
 2    | Data Encryption and Decryption
 3    | Digital Signature Creation
