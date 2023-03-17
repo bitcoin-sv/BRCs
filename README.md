@@ -1,6 +1,6 @@
 # BRCs: Bitcoin Request for Comments
 
-BRCs (Bitcoin Request for Comments) is a repository of standards, templates, and protocols related to the Bitcoin network. The goal of BRCs is to provide a platform for proposing and discussing potential standards without overhead and friction. The goal for this repository is to be able to host everything in one place so that things are easy to find and use.
+BRCs (Bitcoin Request for Comments) is a repository of standards, templates, and protocols related to the Bitcoin network. The goal of BRCs is to provide a platform for proposing and discussing potential standards without overhead and friction. The goal for this repository is to be able to host everything in one place so that things are easy to find, reference, and implement.
 
 Read more about areas of interest on [OpenStandards.cash](https://openstandards.cash)
 
