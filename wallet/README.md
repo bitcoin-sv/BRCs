@@ -4,7 +4,7 @@ This directory contains standards for controlling, interfacing with and extendin
 
 BRC | Standard
 -----|------------------
-1    | Transaction Creation
+1    | [Transaction Creation](./0001.md)
 2    | Data Encryption and Decryption
 3    | Digital Signature Creation
 4    | Input Redemption
