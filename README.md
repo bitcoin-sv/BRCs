@@ -51,9 +51,9 @@ BRC | Standard
 12   | Raw Transaction Format
 13   | TXO Transaction Object Format
 14   | Bitcoin Script Binary and Hex Formats
-15   | Bitcoin Script ASM Format
+15   | [Bitcoin Script Assembly Language](./scripts/0015.md)
 16   | [Pay to Public Key Hash](./scripts/0016.md)
-17   | Pay to R Puzzle Hash
+17   | [Pay to R Puzzle Hash](./scripts/0017.md)
 18   | Pay to False Return
 19   | Pay to True Return
 20   | Pay to Push Drop
