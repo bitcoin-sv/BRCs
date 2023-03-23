@@ -50,11 +50,11 @@ BRC | Standard
 11   | TSC Proof Format with Heights (Tone)
 12   | Raw Transaction Format
 13   | TXO Transaction Object Format
-14   | Bitcoin Script Binary and Hex Formats
+14   | [Bitcoin Script Binary, Hex and ASM Formats](./scripts/0014.md)
 15   | [Bitcoin Script Assembly Language](./scripts/0015.md)
 16   | [Pay to Public Key Hash](./scripts/0016.md)
 17   | [Pay to R Puzzle Hash](./scripts/0017.md)
-18   | Pay to False Return
+18   | [Pay to False Return](./scripts/0018.md)
 19   | Pay to True Return
 20   | Pay to Push Drop
 21   | Push TX
@@ -68,7 +68,7 @@ BRC | Standard
 29   | Simple Authenticated BSV P2PKH Payment Protocol
 30   | Extended Format (Siggi and Simon)
 31   | Authrite Mutual Authentication
-32   | BIP32 Key Derivation Scheme
+32   | [BIP32 Key Derivation Scheme](./key-derivation/0032.md)
 33   | PeerServ Message Relay Interface
 34   | PeerServ Host Interconnect Protocol
 35   | PeerServ Host Message Synchronization Protocol
@@ -79,8 +79,8 @@ BRC | Standard
 40   | User Wallet Data Synchronization
 41   | PacketPay HTTP Payment Mechanism
 42   | [Sendover Key Derivation Scheme](./key-derivation/0042.md)
-43   | Security Levels, Protocol IDs, Key IDs and Counterparties
-44   | Admin-reserved and Prohibited Key Derivation Protocols
+43   | [Security Levels, Protocol IDs, Key IDs and Counterparties](./key-derivation/0043.md)
+44   | [Admin-reserved and Prohibited Key Derivation Protocols](./key-derivation/0044.md)
 45   | Definition of UTXOs as Bitcoin Tokens
 46   | Wallet Transaction Output Tracking (Output Baskets)
 
