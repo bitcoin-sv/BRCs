@@ -55,8 +55,8 @@ BRC | Standard
 16   | [Pay to Public Key Hash](./scripts/0016.md)
 17   | [Pay to R Puzzle Hash](./scripts/0017.md)
 18   | [Pay to False Return](./scripts/0018.md)
-19   | Pay to True Return
-20   | Pay to Push Drop
+19   | [Pay to True Return](./scripts/0019.md)
+20   | [Pay to Push Drop](./scripts/0020.md)
 21   | Push TX
 22   | Confederacy Data Synchronization
 23   | Confederacy Host Interconnect Protocol
@@ -83,6 +83,7 @@ BRC | Standard
 44   | [Admin-reserved and Prohibited Key Derivation Protocols](./key-derivation/0044.md)
 45   | Definition of UTXOs as Bitcoin Tokens
 46   | Wallet Transaction Output Tracking (Output Baskets)
+47   | [Bare Multi-Signature](./scripts/0047.md)
 
 ## Contributing
 

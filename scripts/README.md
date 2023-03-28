@@ -9,6 +9,7 @@ BRC  | Standard
 16   | [Pay to Public Key Hash](./0016.md)
 17   | [Pay to R Puzzle Hash](./0017.md)
 18   | [Pay to False Return](./0018.md)
-19   | Pay to True Return
-20   | Pay to Push Drop
+19   | [Pay to True Return](./0019.md)
+20   | [Pay to Push Drop](./0020.md)
 21   | Push TX
+47   | [Bare Multi-Signature](./0047.md)
