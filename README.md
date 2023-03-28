@@ -57,7 +57,7 @@ BRC | Standard
 18   | [Pay to False Return](./scripts/0018.md)
 19   | [Pay to True Return](./scripts/0019.md)
 20   | [Pay to Push Drop](./scripts/0020.md)
-21   | Push TX
+21   | [Push TX](./0021.md)
 22   | Confederacy Data Synchronization
 23   | Confederacy Host Interconnect Protocol
 24   | Confederacy Lookup Services

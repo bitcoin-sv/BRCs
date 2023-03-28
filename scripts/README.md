@@ -11,5 +11,5 @@ BRC  | Standard
 18   | [Pay to False Return](./0018.md)
 19   | [Pay to True Return](./0019.md)
 20   | [Pay to Push Drop](./0020.md)
-21   | Push TX
+21   | [Push TX](./0021.md)
 47   | [Bare Multi-Signature](./0047.md)
