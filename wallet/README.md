@@ -5,8 +5,8 @@ This directory contains standards for controlling, interfacing with and extendin
 BRC | Standard
 -----|------------------
 1    | [Transaction Creation](./0001.md)
-2    | Data Encryption and Decryption
-3    | Digital Signature Creation
+2    | [Data Encryption and Decryption](./0002.md)
+3    | [Digital Signature Creation and Verification](./0003.md)
 4    | Input Redemption
 5    | HTTP Wallet Communications Substrate
 6    | XDM Wallet Communications Substrate

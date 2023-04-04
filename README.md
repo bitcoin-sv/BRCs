@@ -38,8 +38,8 @@ BRC | Standard
 -----|------------------
 0    | [Banana-Powered Bitcoin Wallet Control Protocol](./EXAMPLE.md)
 1    | [Transaction Creation](./wallet/0001.md)
-2    | Data Encryption and Decryption
-3    | Digital Signature Creation
+2    | [Data Encryption and Decryption](./wallet/0002.md)
+3    | [Digital Signature Creation and Verification](./wallet/0003.md)
 4    | Input Redemption
 5    | HTTP Wallet Communications Substrate
 6    | XDM Wallet Communications Substrate
