@@ -92,6 +92,12 @@ Contributions to BRCs are welcome and encouraged. To propose a new standard or t
 
 To participate in discussions about existing proposals, simply open an issue and make reference to the proposal.
 
+## Customs and Precedent
+
+The purpose of documenting the BRC customs and precedent is to make known the previous decisions that have been made about whether or not something should be a standard or a discussion. This may change from time to time as we learn, and not every precedent will always be followed in all cases. This provides a resource for people to refer to when understanding the process, and the appropriate ways to contribute. In general, Discussions (opening issues) will later motivate Standards (BRC pull requests), and the threshold for creating a BRC Standard is when there is a **specific technical proposal** that defines a **way of doing something** which could be **followed by others**.
+
+You can see the current BRC customs and precedent in [CUSTOMS.md](./CUSTOMS.md).
+
 ## Iterative improvement
 
 We believe in encouraging discussion and iterative improvement of proposals, resulting in incremental improvement within the bounds of the Bitcoin protocol. We welcome suggestions for improvement and are committed to working with contributors to improve proposals and ensure that they align with our guidelines.
