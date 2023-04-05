@@ -10,3 +10,4 @@ BRC | Standard
 11   | TSC Proof Format with Heights (Tone)
 12   | Raw Transaction Format
 13   | TXO Transaction Object Format
+30   | Transaction Extended Format (EF)

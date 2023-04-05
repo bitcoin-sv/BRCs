@@ -66,7 +66,7 @@ BRC | Standard
 27   | Direct Payment Protocol (DPP)
 28   | Paymail Payment Destinations
 29   | Simple Authenticated BSV P2PKH Payment Protocol
-30   | Extended Format (Siggi and Simon)
+30   | [Transaction Extended Format (EF)](./transactions/0030.md)
 31   | Authrite Mutual Authentication
 32   | [BIP32 Key Derivation Scheme](./key-derivation/0032.md)
 33   | PeerServ Message Relay Interface
