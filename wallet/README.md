@@ -11,4 +11,4 @@ BRC | Standard
 5    | HTTP Wallet Communications Substrate
 6    | XDM Wallet Communications Substrate
 7    | Window Wallet Communication Substrate
-46   | Wallet Transaction Output Tracking (Output Baskets)
+46   | [Wallet Transaction Output Tracking (Output Baskets)](./0046.md)

@@ -82,7 +82,7 @@ BRC | Standard
 43   | [Security Levels, Protocol IDs, Key IDs and Counterparties](./key-derivation/0043.md)
 44   | [Admin-reserved and Prohibited Key Derivation Protocols](./key-derivation/0044.md)
 45   | Definition of UTXOs as Bitcoin Tokens
-46   | Wallet Transaction Output Tracking (Output Baskets)
+46   | [Wallet Transaction Output Tracking (Output Baskets)](./wallet/0046.md)
 47   | [Bare Multi-Signature](./scripts/0047.md)
 48   | [Pay to Push Drop](./scripts/0048.md)
 
