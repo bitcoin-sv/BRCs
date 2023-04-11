@@ -6,5 +6,5 @@ BRC | Standard
 -----|------------------
 27   | Direct Payment Protocol (DPP)
 28   | Paymail Payment Destinations
-29   | Simple Authenticated BSV P2PKH Payment Protocol
+29   | [Simple Authenticated BSV P2PKH Payment Protocol](./0029.md)
 41   | PacketPay HTTP Payment Mechanism

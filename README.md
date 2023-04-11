@@ -45,10 +45,10 @@ BRC | Standard
 6    | XDM Wallet Communications Substrate
 7    | Window Wallet Communication Substrate
 8    | Transaction Envelopes
-9    | Simplified Payment Verification
-10   | TSC Merkle Proof Standard Format
+9    | [Simplified Payment Verification](./transactions/0009.md)
+10   | [Merkle proof standardised format](./transactions/0010.md)
 11   | TSC Proof Format with Heights (Tone)
-12   | Raw Transaction Format
+12   | [Raw Transaction Format](./transactions/0012.md)
 13   | TXO Transaction Object Format
 14   | [Bitcoin Script Binary, Hex and ASM Formats](./scripts/0014.md)
 15   | [Bitcoin Script Assembly Language](./scripts/0015.md)
@@ -65,7 +65,7 @@ BRC | Standard
 26   | Universal Hash Resolution Protocol
 27   | Direct Payment Protocol (DPP)
 28   | Paymail Payment Destinations
-29   | Simple Authenticated BSV P2PKH Payment Protocol
+29   | [Simple Authenticated BSV P2PKH Payment Protocol](./payments/0029.md)
 30   | [Transaction Extended Format (EF)](./transactions/0030.md)
 31   | Authrite Mutual Authentication
 32   | [BIP32 Key Derivation Scheme](./key-derivation/0032.md)
@@ -85,18 +85,13 @@ BRC | Standard
 46   | [Wallet Transaction Output Tracking (Output Baskets)](./wallet/0046.md)
 47   | [Bare Multi-Signature](./scripts/0047.md)
 48   | [Pay to Push Drop](./scripts/0048.md)
+49   | [Users should never see an address](./opinions/0049.md)
 
 ## Contributing
 
 Contributions to BRCs are welcome and encouraged. To propose a new standard or template, simply create a new markdown file in the appropriate directory of the BRCs repository, following the structure outlined above. Once your proposal is complete, submit a pull request for review and discussion.
 
 To participate in discussions about existing proposals, simply open an issue and make reference to the proposal.
-
-## Customs and Precedent
-
-The purpose of documenting the BRC customs and precedent is to make known the previous decisions that have been made about whether or not something should be a standard or a discussion. This may change from time to time as we learn, and not every precedent will always be followed in all cases. This provides a resource for people to refer to when understanding the process, and the appropriate ways to contribute. In general, Discussions (opening issues) will later motivate Standards (BRC pull requests), and the threshold for creating a BRC Standard is when there is a **specific technical proposal** that defines a **way of doing something** which could be **followed by others**.
-
-You can see the current BRC customs and precedent in [CUSTOMS.md](./CUSTOMS.md).
 
 ## Iterative improvement
 
