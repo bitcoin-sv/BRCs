@@ -12,4 +12,4 @@ Amends or corrects an existing standard, without the need for creating a new one
 
 ### Summary
 
-YOur summary goes here
+Your summary goes here
