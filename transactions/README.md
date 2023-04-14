@@ -4,7 +4,7 @@ This directory contains standards for representing and conveying data associated
 
 BRC | Standard
 -----|------------------
-8    | Transaction Envelopes
+8    | [Everett-style Transaction Envelopes](./0008.md)
 9    | [Simplified Payment Verification](./0009.md)
 10   | [Merkle proof standardised format](./0010.md)
 11   | TSC Proof Format with Heights (Tone)

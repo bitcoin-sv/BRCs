@@ -44,7 +44,7 @@ BRC | Standard
 5    | HTTP Wallet Communications Substrate
 6    | XDM Wallet Communications Substrate
 7    | Window Wallet Communication Substrate
-8    | Transaction Envelopes
+8    | [Everett-style Transaction Envelopes](./transactions/0008.md)
 9    | [Simplified Payment Verification](./transactions/0009.md)
 10   | [Merkle proof standardised format](./transactions/0010.md)
 11   | TSC Proof Format with Heights (Tone)
