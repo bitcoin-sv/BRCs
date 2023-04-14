@@ -5,3 +5,4 @@ This directory contains opinions that do not necessarily constitute a specific t
 BRC  | Standard
 -----|------------------
 49   | [Users should never see an address](./0049.md)
+50   | [List of user experiences](./0050.md)
