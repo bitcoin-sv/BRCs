@@ -12,3 +12,4 @@ BRC | Standard
 6    | XDM Wallet Communications Substrate
 7    | Window Wallet Communication Substrate
 46   | [Wallet Transaction Output Tracking (Output Baskets)](./0046.md)
+50   | [Submitting Received Payments to a Wallet](./0050.md)
