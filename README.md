@@ -86,7 +86,8 @@ BRC | Standard
 47   | [Bare Multi-Signature](./scripts/0047.md)
 48   | [Pay to Push Drop](./scripts/0048.md)
 49   | [Users should never see an address](./opinions/0049.md)
-50   | [List of user experiences](./opinions/0050.md)
+50   | [Submitting Received Payments to a Wallet](./wallet/0050.md)
+51   | [List of user experiences](./opinions/0051.md)
 
 ## Contributing
 
