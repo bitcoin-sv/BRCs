@@ -8,3 +8,4 @@ BRC | Standard
 33   | PeerServ Message Relay Interface
 34   | PeerServ Host Interconnect Protocol
 35   | PeerServ Host Message Synchronization Protocol
+52   | [Identity Certificates](./0052.md)
