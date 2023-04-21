@@ -49,7 +49,7 @@ BRC | Standard
 10   | [Merkle proof standardised format](./transactions/0010.md)
 11   | [TSC Proof Format with Heights](./transactions/0011.md)
 12   | [Raw Transaction Format](./transactions/0012.md)
-13   | TXO Transaction Object Format
+13   | [TXO Transaction Object Format](./transactions/0013.md)
 14   | [Bitcoin Script Binary, Hex and ASM Formats](./scripts/0014.md)
 15   | [Bitcoin Script Assembly Language](./scripts/0015.md)
 16   | [Pay to Public Key Hash](./scripts/0016.md)
@@ -64,7 +64,7 @@ BRC | Standard
 25   | User Management Protocol
 26   | Universal Hash Resolution Protocol
 27   | Direct Payment Protocol (DPP)
-28   | Paymail Payment Destinations
+28   | [Paymail Payment Destinations](./payments/0028.md)
 29   | [Simple Authenticated BSV P2PKH Payment Protocol](./payments/0029.md)
 30   | [Transaction Extended Format (EF)](./transactions/0030.md)
 31   | Authrite Mutual Authentication
