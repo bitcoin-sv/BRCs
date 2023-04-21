@@ -47,7 +47,7 @@ BRC | Standard
 8    | [Everett-style Transaction Envelopes](./transactions/0008.md)
 9    | [Simplified Payment Verification](./transactions/0009.md)
 10   | [Merkle proof standardised format](./transactions/0010.md)
-11   | [TSC Proof Format with Heights](./opinions/0011.md)
+11   | [TSC Proof Format with Heights](./transactions/0011.md)
 12   | [Raw Transaction Format](./transactions/0012.md)
 13   | TXO Transaction Object Format
 14   | [Bitcoin Script Binary, Hex and ASM Formats](./scripts/0014.md)
