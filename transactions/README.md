@@ -9,5 +9,5 @@ BRC | Standard
 10   | [Merkle proof standardised format](./0010.md)
 11   | [TSC Proof Format with Heights](./0011.md)
 12   | [Raw Transaction Format](./0012.md)
-13   | TXO Transaction Object Format
+13   | [TXO Transaction Object Format](./0013.md)
 30   | [Transaction Extended Format (EF)](./0030.md)
