@@ -47,9 +47,9 @@ BRC | Standard
 8    | [Everett-style Transaction Envelopes](./transactions/0008.md)
 9    | [Simplified Payment Verification](./transactions/0009.md)
 10   | [Merkle proof standardised format](./transactions/0010.md)
-11   | TSC Proof Format with Heights (Tone)
+11   | [TSC Proof Format with Heights](./transactions/0011.md)
 12   | [Raw Transaction Format](./transactions/0012.md)
-13   | TXO Transaction Object Format
+13   | [TXO Transaction Object Format](./transactions/0013.md)
 14   | [Bitcoin Script Binary, Hex and ASM Formats](./scripts/0014.md)
 15   | [Bitcoin Script Assembly Language](./scripts/0015.md)
 16   | [Pay to Public Key Hash](./scripts/0016.md)
@@ -63,8 +63,8 @@ BRC | Standard
 24   | Confederacy Lookup Services
 25   | User Management Protocol
 26   | Universal Hash Resolution Protocol
-27   | Direct Payment Protocol (DPP)
-28   | Paymail Payment Destinations
+27   | [Direct Payment Protocol (DPP)](./payments/0027.md)
+28   | [Paymail Payment Destinations](./payments/0028.md)
 29   | [Simple Authenticated BSV P2PKH Payment Protocol](./payments/0029.md)
 30   | [Transaction Extended Format (EF)](./transactions/0030.md)
 31   | Authrite Mutual Authentication
@@ -89,6 +89,9 @@ BRC | Standard
 50   | [Submitting Received Payments to a Wallet](./wallet/0050.md)
 51   | [List of user experiences](./opinions/0051.md)
 52   | [Identity Certificates](./peer-to-peer/0052.md)
+53   | [Certificate Creation and Revelation](./wallet/0053.md)
+54   | [Hybrid Payment Mode for DPP](./payments/0054.md)
+55   | [HTTPS Transport Mechanism for DPP](./payments/0055.md)
 
 ## Contributing
 
