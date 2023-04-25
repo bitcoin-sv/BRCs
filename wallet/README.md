@@ -14,3 +14,4 @@ BRC | Standard
 46   | [Wallet Transaction Output Tracking (Output Baskets)](./0046.md)
 50   | [Submitting Received Payments to a Wallet](./0050.md)
 53   | [Certificate Creation and Revelation](./0053.md)
+56   | [Unified Abstract Wallet-to-Application Messaging Layer](./0056.md)

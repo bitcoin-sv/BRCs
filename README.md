@@ -91,6 +91,7 @@ BRC | Standard
 53   | [Certificate Creation and Revelation](./wallet/0053.md)
 54   | [Hybrid Payment Mode for DPP](./payments/0054.md)
 55   | [HTTPS Transport Mechanism for DPP](./payments/0055.md)
+56   | [Unified Abstract Wallet-to-Application Messaging Layer](./wallet/0056.md)
 
 ## Contributing
 
