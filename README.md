@@ -88,6 +88,7 @@ BRC | Standard
 49   | [Users should never see an address](./opinions/0049.md)
 50   | [Submitting Received Payments to a Wallet](./wallet/0050.md)
 51   | [List of user experiences](./opinions/0051.md)
+52   | [Identity Certificates](./peer-to-peer/0052.md)
 53   | [Certificate Creation and Revelation](./wallet/0053.md)
 54   | [Hybrid Payment Mode for DPP](./payments/0054.md)
 55   | [HTTPS Transport Mechanism for DPP](./payments/0055.md)
