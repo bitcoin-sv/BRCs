@@ -69,7 +69,7 @@ BRC | Standard
 30   | [Transaction Extended Format (EF)](./transactions/0030.md)
 31   | [Authrite Mutual Authentication](./peer-to-peer/0031.md)
 32   | [BIP32 Key Derivation Scheme](./key-derivation/0032.md)
-33   | PeerServ Message Relay Interface
+33   | [PeerServ Message Relay Interface](./peer-to-peer/0033.md)
 34   | PeerServ Host Interconnect Protocol
 35   | PeerServ Host Message Synchronization Protocol
 36   | Format for Bitcoin Outpoints (Confederacy Lookup Format)
