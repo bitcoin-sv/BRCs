@@ -77,7 +77,7 @@ BRC | Standard
 38   | User Wallet Data Format
 39   | User Wallet Data Format Encryption Extension
 40   | User Wallet Data Synchronization
-41   | PacketPay HTTP Payment Mechanism
+41   | [PacketPay HTTP Payment Mechanism](./payments/0041.md)
 42   | [Sendover Key Derivation Scheme](./key-derivation/0042.md)
 43   | [Security Levels, Protocol IDs, Key IDs and Counterparties](./key-derivation/0043.md)
 44   | [Admin-reserved and Prohibited Key Derivation Protocols](./key-derivation/0044.md)
