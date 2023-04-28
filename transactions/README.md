@@ -11,3 +11,4 @@ BRC | Standard
 12   | [Raw Transaction Format](./0012.md)
 13   | [TXO Transaction Object Format](./0013.md)
 30   | [Transaction Extended Format (EF)](./0030.md)
+58   | [Merkle Path JSON format](./0058.md)

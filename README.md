@@ -67,9 +67,9 @@ BRC | Standard
 28   | [Paymail Payment Destinations](./payments/0028.md)
 29   | [Simple Authenticated BSV P2PKH Payment Protocol](./payments/0029.md)
 30   | [Transaction Extended Format (EF)](./transactions/0030.md)
-31   | Authrite Mutual Authentication
+31   | [Authrite Mutual Authentication](./peer-to-peer/0031.md)
 32   | [BIP32 Key Derivation Scheme](./key-derivation/0032.md)
-33   | PeerServ Message Relay Interface
+33   | [PeerServ Message Relay Interface](./peer-to-peer/0033.md)
 34   | PeerServ Host Interconnect Protocol
 35   | PeerServ Host Message Synchronization Protocol
 36   | Format for Bitcoin Outpoints (Confederacy Lookup Format)
@@ -77,7 +77,7 @@ BRC | Standard
 38   | User Wallet Data Format
 39   | User Wallet Data Format Encryption Extension
 40   | User Wallet Data Synchronization
-41   | PacketPay HTTP Payment Mechanism
+41   | [PacketPay HTTP Payment Mechanism](./payments/0041.md)
 42   | [Sendover Key Derivation Scheme](./key-derivation/0042.md)
 43   | [Security Levels, Protocol IDs, Key IDs and Counterparties](./key-derivation/0043.md)
 44   | [Admin-reserved and Prohibited Key Derivation Protocols](./key-derivation/0044.md)
@@ -88,10 +88,13 @@ BRC | Standard
 49   | [Users should never see an address](./opinions/0049.md)
 50   | [Submitting Received Payments to a Wallet](./wallet/0050.md)
 51   | [List of user experiences](./opinions/0051.md)
+52   | [Identity Certificates](./peer-to-peer/0052.md)
 53   | [Certificate Creation and Revelation](./wallet/0053.md)
 54   | [Hybrid Payment Mode for DPP](./payments/0054.md)
 55   | [HTTPS Transport Mechanism for DPP](./payments/0055.md)
 56   | [Unified Abstract Wallet-to-Application Messaging Layer](./wallet/0056.md)
+57   | [Legitimate Uses for mAPI](./opinions/0057.md)
+58   | [Merkle Path JSON format](./transactions/0058.md)
 
 ## Contributing
 
