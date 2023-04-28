@@ -94,6 +94,7 @@ BRC | Standard
 55   | [HTTPS Transport Mechanism for DPP](./payments/0055.md)
 57   | [Legitimate Uses for mAPI](./opinions/0057.md)
 58   | [Merkle Path JSON format](./transactions/0058.md)
+59   | [Unleashing the Scalability Potential of Bitcoin: The UTXO-Based Overlay Network Approach](./opinions/0059.md)
 
 ## Contributing
 
