@@ -42,7 +42,7 @@ BRC | Standard
 3    | [Digital Signature Creation and Verification](./wallet/0003.md)
 4    | [Input Redemption](./wallet/0004.md)
 5    | HTTP Wallet Communications Substrate
-6    | XDM Wallet Communications Substrate
+6    | [XDM Wallet Communications Substrate](./wallet/0006.md)
 7    | Window Wallet Communication Substrate
 8    | [Everett-style Transaction Envelopes](./transactions/0008.md)
 9    | [Simplified Payment Verification](./transactions/0009.md)
