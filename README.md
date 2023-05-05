@@ -72,8 +72,8 @@ BRC | Standard
 33   | [PeerServ Message Relay Interface](./peer-to-peer/0033.md)
 34   | PeerServ Host Interconnect Protocol
 35   | PeerServ Host Message Synchronization Protocol
-36   | Format for Bitcoin Outpoints (Confederacy Lookup Format)
-37   | Format for Bitcoin Outputs with Spending Instructions
+36   | [Format for Bitcoin Outpoints](./outpoints/0036.md)
+37   | [Spending Instructions Extension for UTXO Storage Format](./outpoints/0037.md)
 38   | User Wallet Data Format
 39   | User Wallet Data Format Encryption Extension
 40   | User Wallet Data Synchronization
