@@ -60,7 +60,7 @@ BRC | Standard
 21   | [Push TX](./scripts/0021.md)
 22   | [Overlay Network Data Synchronization](./overlays/0022.md)
 23   | Confederacy Host Interconnect Protocol
-24   | Confederacy Lookup Services
+24   | [Overlay Network Lookup Services](./overlays/0024.md)
 25   | User Management Protocol
 26   | Universal Hash Resolution Protocol
 27   | [Direct Payment Protocol (DPP)](./payments/0027.md)

@@ -6,6 +6,6 @@ BRC | Standard
 -----|------------------
 22   | [Overlay Network Data Synchronization](./0022.md)
 23   | Confederacy Host Interconnect Protocol
-24   | Confederacy Lookup Services
+24   | [Overlay Network Lookup Services](./0024.md)
 25   | User Management Protocol
 26   | Universal Hash Resolution Protocol
