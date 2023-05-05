@@ -10,7 +10,7 @@ BRC | Standard
 4    | [Input Redemption](./0004.md)
 5    | [HTTP Wallet Communications Substrate](./0005.md)
 6    | [XDM Wallet Communications Substrate](./0006.md)
-7    | Window Wallet Communication Substrate
+7    | [Window Wallet Communication Substrate](./0007.md)
 46   | [Wallet Transaction Output Tracking (Output Baskets)](./0046.md)
 50   | [Submitting Received Payments to a Wallet](./0050.md)
 53   | [Certificate Creation and Revelation](./0053.md)

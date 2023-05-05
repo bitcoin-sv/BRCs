@@ -43,7 +43,7 @@ BRC | Standard
 4    | [Input Redemption](./wallet/0004.md)
 5    | [HTTP Wallet Communications Substrate](./wallet/0005.md)
 6    | [XDM Wallet Communications Substrate](./wallet/0006.md)
-7    | Window Wallet Communication Substrate
+7    | [Window Wallet Communication Substrate](./wallet/0007.md)
 8    | [Everett-style Transaction Envelopes](./transactions/0008.md)
 9    | [Simplified Payment Verification](./transactions/0009.md)
 10   | [Merkle proof standardised format](./transactions/0010.md)
