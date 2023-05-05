@@ -8,7 +8,7 @@ BRC | Standard
 2    | [Data Encryption and Decryption](./0002.md)
 3    | [Digital Signature Creation and Verification](./0003.md)
 4    | [Input Redemption](./0004.md)
-5    | HTTP Wallet Communications Substrate
+5    | [HTTP Wallet Communications Substrate](./0005.md)
 6    | [XDM Wallet Communications Substrate](./0006.md)
 7    | Window Wallet Communication Substrate
 46   | [Wallet Transaction Output Tracking (Output Baskets)](./0046.md)

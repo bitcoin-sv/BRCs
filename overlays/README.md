@@ -4,7 +4,7 @@ This directory contains standards for creating and interacting with overlay netw
 
 BRC | Standard
 -----|------------------
-22   | Confederacy Data Synchronization
+22   | [Overlay Network Data Synchronization](./0022.md)
 23   | Confederacy Host Interconnect Protocol
 24   | Confederacy Lookup Services
 25   | User Management Protocol
