@@ -59,7 +59,7 @@ BRC | Standard
 20   | [There is no BRC-20](./tokens/0020.md)
 21   | [Push TX](./scripts/0021.md)
 22   | [Overlay Network Data Synchronization](./overlays/0022.md)
-23   | Confederacy Host Interconnect Protocol
+23   | [Confederacy Host Interconnect Protocol (CHIP)](./overlays/0023.md)
 24   | [Overlay Network Lookup Services](./overlays/0024.md)
 25   | User Management Protocol
 26   | Universal Hash Resolution Protocol
