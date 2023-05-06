@@ -56,7 +56,7 @@ BRC | Standard
 17   | [Pay to R Puzzle Hash](./scripts/0017.md)
 18   | [Pay to False Return](./scripts/0018.md)
 19   | [Pay to True Return](./scripts/0019.md)
-20   |
+20   | [There is no BRC-20](./tokens/0020.md)
 21   | [Push TX](./scripts/0021.md)
 22   | [Overlay Network Data Synchronization](./overlays/0022.md)
 23   | Confederacy Host Interconnect Protocol
