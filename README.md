@@ -61,7 +61,7 @@ BRC | Standard
 22   | [Overlay Network Data Synchronization](./overlays/0022.md)
 23   | [Confederacy Host Interconnect Protocol (CHIP)](./overlays/0023.md)
 24   | [Overlay Network Lookup Services](./overlays/0024.md)
-25   | User Management Protocol
+25   | [Confederacy Lookup Availability Protocol (CLAP)](./overlays/0025.md)
 26   | Universal Hash Resolution Protocol
 27   | [Direct Payment Protocol (DPP)](./payments/0027.md)
 28   | [Paymail Payment Destinations](./payments/0028.md)
