@@ -4,7 +4,7 @@ A repository for submitting, discussing, sharing, and indexing technical proposa
 
 ## Contributing
 
-Contributions from all builders are welcome and encouraged. To propose a new BRC, fork the repo and create a new markdown file using the [EXAMPLE.md](./EXAMPLE.md) as the template. The common structure is outlined below, which is a guideline to aid you rather than a strict requirement. Once your proposal is ready to share, submit a pull request so that others can review and discuss it.
+Contributions from all builders are welcome and encouraged. To propose a new BRC, fork the repo and create a new markdown file using the [~EXAMPLE.md](./~EXAMPLE.md) as the template. The common structure is outlined below, which is a guideline to aid you rather than a strict requirement. Once your proposal is ready to share, submit a pull request so that others can review and discuss it.
 
 To participate in discussions about existing proposals, simply open an issue and link back to the BRC file in question.
 
@@ -40,7 +40,7 @@ Each proposal should be written as a markdown file and should loosely adhere to 
 
 Things that help depict and understand the document, such as media, may also be added in a media subdirectory where appropriate.
 
-Refer to the [Banana-Powered Bitcoin Wallet Control Protocol](./EXAMPLE.md) for a fun example template you can copy when proposing your own standards.
+Refer to the [Banana-Powered Bitcoin Wallet Control Protocol](./~EXAMPLE.md) for a fun example template you can copy when proposing your own standards.
 
 ## Standards
 
