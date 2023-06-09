@@ -1,12 +1,22 @@
-# BRCs: Bitcoin Request for Comments
+# BRC: Bitcoin Request for Comments
 
-BRCs (Bitcoin Request for Comments) is a repository of standards, templates, and protocols related to the Bitcoin network. The goal of BRCs is to provide a platform for proposing and discussing potential standards without overhead and friction. The goal for this repository is to be able to host everything in one place so that things are easy to find, reference, and implement.
+A repository for submitting, discussing, sharing, and indexing technical proposals for use across the Bitcoin ecosystem. Data models, user interfaces, script templates, encoding formats, communication protocols, and constructive critique of existing industry practice are all welcome. The goal is to provide a platform for sharing ideas without any bureaucratic overhead.
+
+## Contributing
+
+Contributions from all builders are welcome and encouraged. To propose a new BRC, fork the repo and create a new markdown file using the [~EXAMPLE.md](./~EXAMPLE.md) as the template. The common structure is outlined below, which is a guideline to aid you rather than a strict requirement. Once your proposal is ready to share, submit a pull request so that others can review and discuss it.
+
+To participate in discussions about existing proposals, simply open an issue and link back to the BRC file in question.
+
+## Iterative improvement
+
+We believe in encouraging discussion and iterative improvement of proposals, resulting in incremental improvement within the bounds of the Bitcoin protocol. We welcome suggestions for improvement and are committed to working with contributors to improve proposals and ensure that they align with our guidelines.
+
+**Note** that substantial revisions to standards (beyond fixing typos, adding context or wording) should go into a new standard that extends or revises the old one, so as not to disrupt existing implementations.
+
+We look forward to your contributions and helping to create a world where transactions are seamlessly formed, and applications interact with each other with ease.
 
 Read more about areas of interest on [OpenStandards.cash](https://openstandards.cash)
-
-## Background
-
-BRCs aim to provide a less formal and less strict process for proposing and discussing potential standards, templates, and protocols related to the Bitcoin network. BRCs will serve as an open platform for discussing and refining proposals, with the ultimate goal of promoting interoperability and standardization within the Bitcoin ecosystem.
 
 ## Structure
 
@@ -14,7 +24,7 @@ The BRCs repository is organized into directories, each representing a different
 
 - Transaction Templates
 - Bitcoin Script Templates
-- Protocol Standards
+- Communication Protocols
 
 Each proposal should be written as a markdown file and should loosely adhere to the following:
 
@@ -30,7 +40,7 @@ Each proposal should be written as a markdown file and should loosely adhere to 
 
 Things that help depict and understand the document, such as media, may also be added in a media subdirectory where appropriate.
 
-Refer to the [Banana-Powered Bitcoin Wallet Control Protocol](./EXAMPLE.md) for a fun example template you can copy when proposing your own standards.
+Refer to the [Banana-Powered Bitcoin Wallet Control Protocol](./~EXAMPLE.md) for a fun example template you can copy when proposing your own standards.
 
 ## Standards
 
@@ -96,20 +106,6 @@ BRC | Standard
 57   | [Legitimate Uses for mAPI](./opinions/0057.md)
 58   | [Merkle Path JSON format](./transactions/0058.md)
 59   | [Security and Scalability Benefits of UTXO-based Overlay Networks](./opinions/0059.md)
-
-## Contributing
-
-Contributions to BRCs are welcome and encouraged. To propose a new standard or template, simply create a new markdown file in the appropriate directory of the BRCs repository, following the structure outlined above. Once your proposal is complete, submit a pull request for review and discussion.
-
-To participate in discussions about existing proposals, simply open an issue and make reference to the proposal.
-
-## Iterative improvement
-
-We believe in encouraging discussion and iterative improvement of proposals, resulting in incremental improvement within the bounds of the Bitcoin protocol. We welcome suggestions for improvement and are committed to working with contributors to improve proposals and ensure that they align with our guidelines.
-
-**Note** that substantial revisions to standards (beyond fixing typos, adding context or wording) should go into a new standard that extends or revises the old one, so as not to disrupt existing implementations.
-
-We look forward to your contributions and helping to create a world where transactions are seamlessly formed, and applications interact with each other with ease.
 
 ## License
 
