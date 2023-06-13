@@ -8,4 +8,4 @@ BRC | Standard
 23   | [Confederacy Host Interconnect Protocol (CHIP)](./0023.md)
 24   | [Overlay Network Lookup Services](./0024.md)
 25   | [Confederacy Lookup Availability Protocol (CLAP)](./0025.md)
-26   | Universal Hash Resolution Protocol
+26   | [Universal Hash Resolution Protocol](./0026.md)

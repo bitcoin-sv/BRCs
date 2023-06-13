@@ -72,7 +72,7 @@ BRC | Standard
 23   | [Confederacy Host Interconnect Protocol (CHIP)](./overlays/0023.md)
 24   | [Overlay Network Lookup Services](./overlays/0024.md)
 25   | [Confederacy Lookup Availability Protocol (CLAP)](./overlays/0025.md)
-26   | Universal Hash Resolution Protocol
+26   | [Universal Hash Resolution Protocol](./overlays/0026.md)
 27   | [Direct Payment Protocol (DPP)](./payments/0027.md)
 28   | [Paymail Payment Destinations](./payments/0028.md)
 29   | [Simple Authenticated BSV P2PKH Payment Protocol](./payments/0029.md)
@@ -91,7 +91,7 @@ BRC | Standard
 42   | [Sendover Key Derivation Scheme](./key-derivation/0042.md)
 43   | [Security Levels, Protocol IDs, Key IDs and Counterparties](./key-derivation/0043.md)
 44   | [Admin-reserved and Prohibited Key Derivation Protocols](./key-derivation/0044.md)
-45   | Definition of UTXOs as Bitcoin Tokens
+45   | [Definition of UTXOs as Bitcoin Tokens](./tokens/0045.md)
 46   | [Wallet Transaction Output Tracking (Output Baskets)](./wallet/0046.md)
 47   | [Bare Multi-Signature](./scripts/0047.md)
 48   | [Pay to Push Drop](./scripts/0048.md)
@@ -106,6 +106,7 @@ BRC | Standard
 57   | [Legitimate Uses for mAPI](./opinions/0057.md)
 58   | [Merkle Path JSON format](./transactions/0058.md)
 59   | [Security and Scalability Benefits of UTXO-based Overlay Networks](./opinions/0059.md)
+60   | [Simplifying State Machine Event Chains in Bitcoin](./state-machines/0060.md)
 
 ## License
 
