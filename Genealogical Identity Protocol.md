@@ -26,7 +26,7 @@ In conclusion, the GIP is driven by the urgent need for improved identity verifi
 
 ---
 
-## Specication
+## Specification
 
 ### GEDCOM Files
 
