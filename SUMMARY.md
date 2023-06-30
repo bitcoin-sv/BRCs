@@ -15,6 +15,7 @@
 * [Window Wallet Communication Substrate](./wallet/0007.md)
 * [Wallet Transaction Output Tracking (Output Baskets)](./wallet/0046.md)
 * [Submitting Received Payments to a Wallet](./wallet/0050.md)
+* [Certificate Creation and Revelation](./wallet/0053.md)
 * [Unified Abstract Wallet-to-Application Messaging Layer](./wallet/0056.md)
 
 ## Transactions
