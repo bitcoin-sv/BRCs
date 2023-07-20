@@ -108,7 +108,7 @@ BRC | Standard
 59   | [Security and Scalability Benefits of UTXO-based Overlay Networks](./opinions/0059.md)
 60   | [Simplifying State Machine Event Chains in Bitcoin](./state-machines/0060.md)
 60   | [Compound Merkle Path Format](./transactions/0061.md)
-60   | [Background Evaluation Extended Format (BEEF) Transaction](./transactions/0062.md)
+60   | [Background Evaluation Extended Format (BEEF) Transactions](./transactions/0062.md)
 
 ## License
 

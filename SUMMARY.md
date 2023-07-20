@@ -29,7 +29,7 @@
 * [Transaction Extended Format (EF)](./transactions/0030.md)
 * [Merkle Path Data Model](./transactions/0058.md)
 * [Compound Merkle Path Format](./transactions/0061.md)
-* [Background Evaluation Extended Format (BEEF) Transaction](./transactions/0062.md)
+* [Background Evaluation Extended Format (BEEF) Transactions](./transactions/0062.md)
 
 ## Scripts
 
