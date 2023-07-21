@@ -27,7 +27,9 @@
 * [Raw Transaction Format](./transactions/0012.md)
 * [TXO Transaction Object Format](./transactions/0013.md)
 * [Transaction Extended Format (EF)](./transactions/0030.md)
-* [Merkle Path JSON format](./transactions/0058.md)
+* [Merkle Path Data Model](./transactions/0058.md)
+* [Compound Merkle Path Format](./transactions/0061.md)
+* [Background Evaluation Extended Format (BEEF) Transactions](./transactions/0062.md)
 
 ## Scripts
 
