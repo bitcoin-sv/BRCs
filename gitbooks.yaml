@@ -1,5 +1,29 @@
 root: ./
-
 structure:  
     readme: README.md  
     summary: SUMMARY.md
+title: BRC: Bitcoin Request for Comments
+author: Bitcoin Association
+description: A repository for submitting, discussing, sharing, and indexing technical proposals for use across the Bitcoin ecosystem.
+plugins:
+  - search
+  - sharing
+  - theme-default
+  - github
+  - anchor-navigation-ex
+  - collapsible-chapters
+  - advanced-emoji
+  - edit-link
+  - gitbook-plugin-expandable-chapters
+languages:
+  - en
+github:
+  repository: https://github.com/bitcoin-sv/BRCs
+theme:
+  navigationDepth: 2
+  style: website
+links:
+  sharing:
+    github: https://github.com/bitcoin-sv/BRCs
+    twitter: https://twitter.com/BitcoinAssn
+    linkedin: https://www.linkedin.com/company/bitcoinassociation
