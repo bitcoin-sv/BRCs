@@ -109,6 +109,7 @@ BRC | Standard
 60   | [Simplifying State Machine Event Chains in Bitcoin](./state-machines/0060.md)
 61   | [Compound Merkle Path Format](./transactions/0061.md)
 62   | [Background Evaluation Extended Format (BEEF) Transactions](./transactions/0062.md)
+63   | [Genealogical Identity Protocol](./peer-to-peer/0063.md)
 
 ## License
 
