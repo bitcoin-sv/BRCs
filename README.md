@@ -110,6 +110,7 @@ BRC | Standard
 61   | [Compound Merkle Path Format](./transactions/0061.md)
 62   | [Background Evaluation Extended Format (BEEF) Transactions](./transactions/0062.md)
 63   | [Genealogical Identity Protocol](./peer-to-peer/0063.md)
+64   | [Overlay Network Transaction History Tracking](./overlays/0064.md)
 
 ## License
 
