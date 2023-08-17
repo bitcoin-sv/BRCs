@@ -111,6 +111,7 @@ BRC | Standard
 62   | [Background Evaluation Extended Format (BEEF) Transactions](./transactions/0062.md)
 63   | [Genealogical Identity Protocol](./peer-to-peer/0063.md)
 64   | [Overlay Network Transaction History Tracking](./overlays/0064.md)
+65   | [Transaction Labels and List Actions](./wallet/0065.md)
 
 ## License
 
