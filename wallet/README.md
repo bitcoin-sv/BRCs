@@ -16,3 +16,4 @@ BRC | Standard
 53   | [Certificate Creation and Revelation](./0053.md)
 56   | [Unified Abstract Wallet-to-Application Messaging Layer](./0056.md)
 65   | [Transaction Labels and List Actions](./0065.md)
+66   | [Output Basket Removal and Certificate Deletion](./0066.md)

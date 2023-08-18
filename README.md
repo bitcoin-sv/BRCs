@@ -112,6 +112,7 @@ BRC | Standard
 63   | [Genealogical Identity Protocol](./peer-to-peer/0063.md)
 64   | [Overlay Network Transaction History Tracking](./overlays/0064.md)
 65   | [Transaction Labels and List Actions](./wallet/0065.md)
+66   | [Output Basket Removal and Certificate Deletion](./wallet/0066.md)
 
 ## License
 
