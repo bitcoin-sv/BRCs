@@ -30,6 +30,7 @@
 * [Merkle Path Data Model](./transactions/0058.md)
 * [Compound Merkle Path Format](./transactions/0061.md)
 * [Background Evaluation Extended Format (BEEF) Transactions](./transactions/0062.md)
+* [Simplified Payment Verification](./transactions/0067.md)
 
 ## Scripts
 
