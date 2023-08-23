@@ -12,5 +12,6 @@ BRC | Standard
 13   | [TXO Transaction Object Format](./0013.md)
 30   | [Transaction Extended Format (EF)](./0030.md)
 58   | [Merkle Path JSON format](./0058.md)
-61   | [Compound Merkle Path Format](./transactions/0061.md)
-62   | [Background Evaluation Extended Format (BEEF) Transactions](./transactions/0062.md)
+61   | [Compound Merkle Path Format](./0061.md)
+62   | [Background Evaluation Extended Format (BEEF) Transactions](./0062.md)
+63   | [Simplified Payment Verification](./0063.md)
