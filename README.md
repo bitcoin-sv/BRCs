@@ -114,6 +114,7 @@ BRC | Standard
 65   | [Transaction Labels and List Actions](./wallet/0065.md)
 66   | [Output Basket Removal and Certificate Deletion](./wallet/0066.md)
 67   | [Simplified Payment Verification](./transactions/0067.md)
+68   | [Publishing Trust Anchor Details at an Internet Domain](./peer-to-peer/0068.md)
 
 ## License
 
