@@ -8,3 +8,4 @@ BRC | Standard
 42   | [Sendover Key Derivation Scheme](./0042.md)
 43   | [Security Levels, Protocol IDs, Key IDs and Counterparties](./0043.md)
 44   | [Admin-reserved and Prohibited Key Derivation Protocols](./0044.md)
+69   | [Revealing Key Linkages](./0069.md)
