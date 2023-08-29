@@ -10,4 +10,4 @@ BRC | Standard
 41   | [PacketPay HTTP Payment Mechanism](./0041.md)
 54   | [Hybrid Payment Mode for DPP](./0054.md)
 55   | [HTTPS Transport Mechanism for DPP](./0055.md)
-69   | [Paymail Receieve BEEF](./0069.md)
+70   | [Paymail Receieve BEEF](./0070.md)

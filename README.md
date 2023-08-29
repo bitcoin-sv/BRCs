@@ -115,7 +115,7 @@ BRC | Standard
 66   | [Output Basket Removal and Certificate Deletion](./wallet/0066.md)
 67   | [Simplified Payment Verification](./transactions/0067.md)
 68   | [Publishing Trust Anchor Details at an Internet Domain](./peer-to-peer/0068.md)
-69   | [Paymail BEEF Transaction](./payments/0069.md)
+70   | [Paymail BEEF Transaction](./payments/0070.md)
 
 ## License
 
