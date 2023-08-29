@@ -80,8 +80,8 @@ BRC | Standard
 31   | [Authrite Mutual Authentication](./peer-to-peer/0031.md)
 32   | [BIP32 Key Derivation Scheme](./key-derivation/0032.md)
 33   | [PeerServ Message Relay Interface](./peer-to-peer/0033.md)
-34   | PeerServ Host Interconnect Protocol
-35   | PeerServ Host Message Synchronization Protocol
+34   | [PeerServ Host Interconnect Protocol](./peer-to-peer/0034.md)
+35   | (unused, will assign next BRC to this number)
 36   | [Format for Bitcoin Outpoints](./outpoints/0036.md)
 37   | [Spending Instructions Extension for UTXO Storage Format](./outpoints/0037.md)
 38   | User Wallet Data Format
@@ -115,6 +115,7 @@ BRC | Standard
 66   | [Output Basket Removal and Certificate Deletion](./wallet/0066.md)
 67   | [Simplified Payment Verification](./transactions/0067.md)
 68   | [Publishing Trust Anchor Details at an Internet Domain](./peer-to-peer/0068.md)
+69   | [Revealing Key Linkages](./key-derivation/0069.md)
 70   | [Paymail BEEF Transaction](./payments/0070.md)
 
 ## License

@@ -6,8 +6,7 @@ BRC | Standard
 -----|------------------
 31   | [Authrite Mutual Authentication](./0031.md)
 33   | [PeerServ Message Relay Interface](./0033.md)
-34   | PeerServ Host Interconnect Protocol
-35   | PeerServ Host Message Synchronization Protocol
+34   | [PeerServ Host Interconnect Protocol](./0034.md)
 52   | [Identity Certificates](./0052.md)
 63   | [Genealogical Identity Protocol](./0063.md)
 68   | [Publishing Trust Anchor Details at an Internet Domain](./0068.md)
