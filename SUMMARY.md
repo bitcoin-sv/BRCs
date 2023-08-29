@@ -65,6 +65,7 @@
 * [PacketPay HTTP Payment Mechanism](./payments/0041.md)
 * [Hybrid Payment Mode for DPP](./payments/0054.md)
 * [HTTPS Transport Mechanism for DPP](./payments/0055.md)
+* [Paymail BEEF Transaction](./payments/0070.md)
 
 ## Peer-to-Peer
 

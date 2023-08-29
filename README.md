@@ -116,6 +116,7 @@ BRC | Standard
 67   | [Simplified Payment Verification](./transactions/0067.md)
 68   | [Publishing Trust Anchor Details at an Internet Domain](./peer-to-peer/0068.md)
 69   | [Revealing Key Linkages](./key-derivation/0069.md)
+70   | [Paymail BEEF Transaction](./payments/0070.md)
 
 ## License
 
