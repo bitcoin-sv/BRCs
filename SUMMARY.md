@@ -71,6 +71,8 @@
 
 * [Authrite Mutual Authentication](./peer-to-peer/0031.md)
 * [PeerServ Message Relay Interface](./peer-to-peer/0033.md)
+* [PeerServ Host Interconnect Protocol](./peer-to-peer/0034.md)
+* [Publishing Trust Anchor Details at an Internet Domain](./peer-to-peer/0068.md)
 * [Identity Certificates](./peer-to-peer/0052.md)
 
 ## Key Derivation
@@ -79,6 +81,7 @@
 * [Sendover Key Derivation Scheme](./key-derivation/0042.md)
 * [Security Levels, Protocol IDs, Key IDs and Counterparties](./key-derivation/0043.md)
 * [Admin-reserved and Prohibited Key Derivation Protocols](./key-derivation/0044.md)
+* [Revealing Key Linkages](./key-derivation/0069.md)
 
 ## Outpoints
 
