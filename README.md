@@ -117,6 +117,7 @@ BRC | Standard
 68   | [Publishing Trust Anchor Details at an Internet Domain](./peer-to-peer/0068.md)
 69   | [Revealing Key Linkages](./key-derivation/0069.md)
 70   | [Paymail BEEF Transaction](./payments/0070.md)
+71   | [Merkle Path Binary Format](./transactions/0071.md)
 
 ## License
 
