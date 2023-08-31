@@ -31,6 +31,7 @@
 * [Compound Merkle Path Format](./transactions/0061.md)
 * [Background Evaluation Extended Format (BEEF) Transactions](./transactions/0062.md)
 * [Simplified Payment Verification](./transactions/0067.md)
+* [Merkle Path Binary Format](./transactions/0071.md)
 
 ## Scripts
 
