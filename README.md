@@ -118,6 +118,7 @@ BRC | Standard
 69   | [Revealing Key Linkages](./key-derivation/0069.md)
 70   | [Paymail BEEF Transaction](./payments/0070.md)
 71   | [Merkle Path Binary Format](./transactions/0071.md)
+72   | [Protecting BRC-69 Key Linkage Information in Transit](./key-derivation/0072.md)
 
 ## License
 

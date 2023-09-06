@@ -9,3 +9,4 @@ BRC | Standard
 43   | [Security Levels, Protocol IDs, Key IDs and Counterparties](./0043.md)
 44   | [Admin-reserved and Prohibited Key Derivation Protocols](./0044.md)
 69   | [Revealing Key Linkages](./0069.md)
+72   | [Protecting BRC-69 Key Linkage Information in Transit](./0072.md)
