@@ -17,6 +17,7 @@
 * [Submitting Received Payments to a Wallet](./wallet/0050.md)
 * [Certificate Creation and Revelation](./wallet/0053.md)
 * [Unified Abstract Wallet-to-Application Messaging Layer](./wallet/0056.md)
+* [Group Permissions for App Access](./wallet/0073.md)
 
 ## Transactions
 
