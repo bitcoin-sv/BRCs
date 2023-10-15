@@ -120,7 +120,7 @@ BRC | Standard
 71   | [Merkle Path Binary Format](./transactions/0071.md)
 72   | [Protecting BRC-69 Key Linkage Information in Transit](./key-derivation/0072.md)
 73   | [Group Permissions for App Access](./wallet/0073.md)
-74   | [Unified Merkle Path Format](./transactions/0074.md)
+74   | [BSV Unified Merkle Path (BUMP) Format](./transactions/0074.md)
 
 ## License
 
