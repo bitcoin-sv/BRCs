@@ -1,5 +1,10 @@
 # BRCs
 
+## Contribute
+
+* [Discuss on Github](https://github.com/bitcoin-sv/BRCs/issues/new/choose)
+
+
 ## Example
 
 * [Banana-Powered Bitcoin Wallet Control Protocol](./EXAMPLE.md)
