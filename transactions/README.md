@@ -17,3 +17,4 @@ BRC | Standard
 67   | [Simplified Payment Verification](./0067.md)
 71   | [Merkle Path Binary Format](./0071.md)
 74   | [BSV Unified Merkle Path (BUMP) Format](./0074.md)
+74   | [Graph Aware Sync Protocol](./0075.md)
