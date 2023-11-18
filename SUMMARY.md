@@ -39,6 +39,7 @@
 * [Simplified Payment Verification](./transactions/0067.md)
 * [Merkle Path Binary Format](./transactions/0071.md)
 * [BSV Unified Merkle Path (BUMP) Format](./transactions/0074.md)
+* [Graph Aware Sync Protocol](./transactions/0076.md)
 
 ## Scripts
 
