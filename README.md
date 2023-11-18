@@ -121,7 +121,7 @@ BRC | Standard
 72   | [Protecting BRC-69 Key Linkage Information in Transit](./key-derivation/0072.md)
 73   | [Group Permissions for App Access](./wallet/0073.md)
 74   | [BSV Unified Merkle Path (BUMP) Format](./transactions/0074.md)
-75   | [Mnemonic - Use For Single Private Key](./key-derivation/0075.md)
+75   | [Mnemonic For Master Private Key](./key-derivation/0075.md)
 
 ## License
 
