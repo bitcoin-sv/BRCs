@@ -10,4 +10,4 @@ BRC | Standard
 44   | [Admin-reserved and Prohibited Key Derivation Protocols](./0044.md)
 69   | [Revealing Key Linkages](./0069.md)
 72   | [Protecting BRC-69 Key Linkage Information in Transit](./0072.md)
-75   | [Mnemonic - Use For Single Private Key](./0075.md)
+75   | [Mnemonic For Master Private Key](./0075.md)
