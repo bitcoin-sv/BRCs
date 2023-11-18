@@ -91,6 +91,7 @@
 * [Admin-reserved and Prohibited Key Derivation Protocols](./key-derivation/0044.md)
 * [Revealing Key Linkages](./key-derivation/0069.md)
 * [Protecting BRC-69 Key Linkage Information in Transit](./key-derivation/0072.md)
+* [Mnemonic For Master Private Key](./key-derivation/0075.md)
 
 ## Outpoints
 
