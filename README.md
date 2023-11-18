@@ -122,6 +122,7 @@ BRC | Standard
 73   | [Group Permissions for App Access](./wallet/0073.md)
 74   | [BSV Unified Merkle Path (BUMP) Format](./transactions/0074.md)
 75   | [Mnemonic For Master Private Key](./key-derivation/0075.md)
+76   | [Graph Aware Sync Protocol](./transactions/0076.md)
 
 ## License
 
