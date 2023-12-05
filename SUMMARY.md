@@ -1,5 +1,10 @@
 # BRCs
 
+## Contribute
+
+* [Discuss on Github](https://github.com/bitcoin-sv/BRCs/issues/new/choose)
+
+
 ## Example
 
 * [Banana-Powered Bitcoin Wallet Control Protocol](./EXAMPLE.md)
@@ -17,6 +22,7 @@
 * [Submitting Received Payments to a Wallet](./wallet/0050.md)
 * [Certificate Creation and Revelation](./wallet/0053.md)
 * [Unified Abstract Wallet-to-Application Messaging Layer](./wallet/0056.md)
+* [Group Permissions for App Access](./wallet/0073.md)
 
 ## Transactions
 
@@ -31,6 +37,9 @@
 * [Compound Merkle Path Format](./transactions/0061.md)
 * [Background Evaluation Extended Format (BEEF) Transactions](./transactions/0062.md)
 * [Simplified Payment Verification](./transactions/0067.md)
+* [Merkle Path Binary Format](./transactions/0071.md)
+* [BSV Unified Merkle Path (BUMP) Format](./transactions/0074.md)
+* [Graph Aware Sync Protocol](./transactions/0076.md)
 
 ## Scripts
 
@@ -82,6 +91,8 @@
 * [Security Levels, Protocol IDs, Key IDs and Counterparties](./key-derivation/0043.md)
 * [Admin-reserved and Prohibited Key Derivation Protocols](./key-derivation/0044.md)
 * [Revealing Key Linkages](./key-derivation/0069.md)
+* [Protecting BRC-69 Key Linkage Information in Transit](./key-derivation/0072.md)
+* [Mnemonic For Master Private Key](./key-derivation/0075.md)
 
 ## Outpoints
 

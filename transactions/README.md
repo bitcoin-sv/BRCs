@@ -15,3 +15,6 @@ BRC | Standard
 61   | [Compound Merkle Path Format](./0061.md)
 62   | [Background Evaluation Extended Format (BEEF) Transactions](./0062.md)
 67   | [Simplified Payment Verification](./0067.md)
+71   | [Merkle Path Binary Format](./0071.md)
+74   | [BSV Unified Merkle Path (BUMP) Format](./0074.md)
+76   | [Graph Aware Sync Protocol](./0076.md)

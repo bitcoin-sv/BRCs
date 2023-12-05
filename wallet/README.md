@@ -17,3 +17,4 @@ BRC | Standard
 56   | [Unified Abstract Wallet-to-Application Messaging Layer](./0056.md)
 65   | [Transaction Labels and List Actions](./0065.md)
 66   | [Output Basket Removal and Certificate Deletion](./0066.md)
+73   | [Group Permissions for App Access](./0073.md)

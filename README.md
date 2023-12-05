@@ -117,6 +117,12 @@ BRC | Standard
 68   | [Publishing Trust Anchor Details at an Internet Domain](./peer-to-peer/0068.md)
 69   | [Revealing Key Linkages](./key-derivation/0069.md)
 70   | [Paymail BEEF Transaction](./payments/0070.md)
+71   | [Merkle Path Binary Format](./transactions/0071.md)
+72   | [Protecting BRC-69 Key Linkage Information in Transit](./key-derivation/0072.md)
+73   | [Group Permissions for App Access](./wallet/0073.md)
+74   | [BSV Unified Merkle Path (BUMP) Format](./transactions/0074.md)
+75   | [Mnemonic For Master Private Key](./key-derivation/0075.md)
+76   | [Graph Aware Sync Protocol](./transactions/0076.md)
 
 ## License
 
