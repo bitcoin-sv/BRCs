@@ -11,3 +11,4 @@ BRC | Standard
 63   | [Genealogical Identity Protocol](./0063.md)
 68   | [Publishing Trust Anchor Details at an Internet Domain](./0068.md)
 77   | [Message Signature Creation and Verification](./0077.md)
+78   | [Serialization Format for Portable Encrypted Messages](./0078.md)

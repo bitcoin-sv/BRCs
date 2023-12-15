@@ -124,6 +124,7 @@ BRC | Standard
 75   | [Mnemonic For Master Private Key](./key-derivation/0075.md)
 76   | [Graph Aware Sync Protocol](./transactions/0076.md)
 77   | [Message Signature Creation and Verification](./peer-to-peer/0077.md)
+78   | [Serialization Format for Portable Encrypted Messages](./peer-to-peer/0078.md)
 
 ## License
 
