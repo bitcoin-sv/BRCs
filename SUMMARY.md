@@ -83,6 +83,7 @@
 * [PeerServ Host Interconnect Protocol](./peer-to-peer/0034.md)
 * [Publishing Trust Anchor Details at an Internet Domain](./peer-to-peer/0068.md)
 * [Identity Certificates](./peer-to-peer/0052.md)
+* [Message Signature Creation and Verification](./peer-to-peer/0077.md)
 
 ## Key Derivation
 
