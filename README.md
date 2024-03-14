@@ -126,6 +126,7 @@ BRC | Standard
 77   | [Message Signature Creation and Verification](./peer-to-peer/0077.md)
 78   | [Serialization Format for Portable Encrypted Messages](./peer-to-peer/0078.md)
 79   | [Token Exchange Protocol for UTXO-based Overlay Networks](./tokens/0079.md)
+80   | [Improving on MLD for BSV Multicast Services](./opinions/0080.md)
 
 ## License
 
