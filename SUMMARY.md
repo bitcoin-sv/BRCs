@@ -84,6 +84,7 @@
 * [Publishing Trust Anchor Details at an Internet Domain](./peer-to-peer/0068.md)
 * [Identity Certificates](./peer-to-peer/0052.md)
 * [Message Signature Creation and Verification](./peer-to-peer/0077.md)
+* [Serialization Format for Portable Encrypted Messages](./peer-to-peer/0078.md)
 
 ## Key Derivation
 
