@@ -95,6 +95,7 @@
 * [Revealing Key Linkages](./key-derivation/0069.md)
 * [Protecting BRC-69 Key Linkage Information in Transit](./key-derivation/0072.md)
 * [Mnemonic For Master Private Key](./key-derivation/0075.md)
+* [Secure Custody and Recovery Scheme](./key-derivation/0081.md)
 
 ## Outpoints
 

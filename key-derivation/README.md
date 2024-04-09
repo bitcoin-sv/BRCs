@@ -11,3 +11,4 @@ BRC | Standard
 69   | [Revealing Key Linkages](./0069.md)
 72   | [Protecting BRC-69 Key Linkage Information in Transit](./0072.md)
 75   | [Mnemonic For Master Private Key](./0075.md)
+81   | [Secure Custody and Recovery Scheme](./0081.md)
