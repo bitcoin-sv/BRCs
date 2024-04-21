@@ -10,3 +10,4 @@ BRC | Standard
 25   | [Confederacy Lookup Availability Protocol (CLAP)](./0025.md)
 26   | [Universal Hash Resolution Protocol](./0026.md)
 64   | [Overlay Network Transaction History Tracking](./0064.md)
+81   | [Private Overlays with P2PKH Transactions](./0081.md)

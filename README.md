@@ -127,6 +127,8 @@ BRC | Standard
 78   | [Serialization Format for Portable Encrypted Messages](./peer-to-peer/0078.md)
 79   | [Token Exchange Protocol for UTXO-based Overlay Networks](./tokens/0079.md)
 80   | [Improving on MLD for BSV Multicast Services](./opinions/0080.md)
+81   | [Private Overlays with P2PKH Transactions](./overlays/0081.md)
+82   | [Defining a Scalable IPv6 Multicast Protocol for Blockchain Transaction Broadcast and Update Delivery](./peer-to-peer/0082.md)
 
 ## License
 

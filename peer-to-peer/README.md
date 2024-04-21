@@ -12,3 +12,4 @@ BRC | Standard
 68   | [Publishing Trust Anchor Details at an Internet Domain](./0068.md)
 77   | [Message Signature Creation and Verification](./0077.md)
 78   | [Serialization Format for Portable Encrypted Messages](./0078.md)
+82   | [Defining a Scalable IPv6 Multicast Protocol for Blockchain Transaction Broadcast and Update Delivery](./0082.md)
