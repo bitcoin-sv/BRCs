@@ -18,3 +18,4 @@ BRC | Standard
 71   | [Merkle Path Binary Format](./0071.md)
 74   | [BSV Unified Merkle Path (BUMP) Format](./0074.md)
 76   | [Graph Aware Sync Protocol](./0076.md)
+83   | [Scalable Transaction Processing in the BSV Network](./0083.md)

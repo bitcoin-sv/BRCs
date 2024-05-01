@@ -129,6 +129,7 @@ BRC | Standard
 80   | [Improving on MLD for BSV Multicast Services](./opinions/0080.md)
 81   | [Private Overlays with P2PKH Transactions](./overlays/0081.md)
 82   | [Defining a Scalable IPv6 Multicast Protocol for Blockchain Transaction Broadcast and Update Delivery](./peer-to-peer/0082.md)
+83   | [Scalable Transaction Processing in the BSV Network](./transactions/0083.md)
 
 ## License
 
