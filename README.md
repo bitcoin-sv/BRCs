@@ -130,7 +130,8 @@ BRC | Standard
 81   | [Private Overlays with P2PKH Transactions](./overlays/0081.md)
 82   | [Defining a Scalable IPv6 Multicast Protocol for Blockchain Transaction Broadcast and Update Delivery](./peer-to-peer/0082.md)
 83   | [Scalable Transaction Processing in the BSV Network](./transactions/0083.md)
-84   | [Proven Identity Key Exchange (PIKE)](./peer-to-peer/0084.md)
+84   | [Linked Key Derivation Scheme](./key-derivation/0084.md)
+85   | [Proven Identity Key Exchange (PIKE)](./peer-to-peer/0085.md)
 
 ## License
 
