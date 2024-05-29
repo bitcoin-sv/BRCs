@@ -40,6 +40,7 @@
 * [Merkle Path Binary Format](./transactions/0071.md)
 * [BSV Unified Merkle Path (BUMP) Format](./transactions/0074.md)
 * [Graph Aware Sync Protocol](./transactions/0076.md)
+* [Scalable Transaction Processing in the BSV Network](./transactions/0083.md)
 
 ## Scripts
 
