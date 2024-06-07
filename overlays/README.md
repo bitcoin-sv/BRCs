@@ -11,3 +11,4 @@ BRC | Standard
 26   | [Universal Hash Resolution Protocol](./0026.md)
 64   | [Overlay Network Transaction History Tracking](./0064.md)
 81   | [Private Overlays with P2PKH Transactions](./0081.md)
+87   | [Standardized Naming Conventions for BRC-22 Topic Managers and BRC-24 Lookup Services](./0087.md)

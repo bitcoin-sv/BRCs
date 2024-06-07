@@ -132,6 +132,8 @@ BRC | Standard
 83   | [Scalable Transaction Processing in the BSV Network](./transactions/0083.md)
 84   | [Linked Key Derivation Scheme](./key-derivation/0084.md)
 85   | [Proven Identity Key Exchange (PIKE)](./peer-to-peer/0085.md)
+86   | [Bidirectionally Authenticated Derivation of Privacy Restricted Tyye 42 Keys](./key-derivation/0086.md)
+87   | [Standardized Naming Conventions for BRC-22 Topic Managers and BRC-24 Lookup Services](./overlays/0087.md)
 
 ## License
 
