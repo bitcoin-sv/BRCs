@@ -134,6 +134,7 @@ BRC | Standard
 85   | [Proven Identity Key Exchange (PIKE)](./peer-to-peer/0085.md)
 86   | [Bidirectionally Authenticated Derivation of Privacy Restricted Type 42 Keys](./key-derivation/0086.md)
 87   | [Standardized Naming Conventions for BRC-22 Topic Managers and BRC-24 Lookup Services](./overlays/0087.md)
+88   | [Overlay Services Synchronization Architecture](./overlays/0088.md)
 
 ## License
 
