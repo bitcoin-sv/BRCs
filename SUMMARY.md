@@ -86,7 +86,7 @@
 * [Identity Certificates](./peer-to-peer/0052.md)
 * [Message Signature Creation and Verification](./peer-to-peer/0077.md)
 * [Serialization Format for Portable Encrypted Messages](./peer-to-peer/0078.md)
-* [Proven Identity Key Exchange (PIKE)](./peer-to-peer/0084.md)
+* [Proven Identity Key Exchange (PIKE)](./peer-to-peer/0085.md)
 
 ## Key Derivation
 
@@ -97,6 +97,7 @@
 * [Revealing Key Linkages](./key-derivation/0069.md)
 * [Protecting BRC-69 Key Linkage Information in Transit](./key-derivation/0072.md)
 * [Mnemonic For Master Private Key](./key-derivation/0075.md)
+* [Bidirectionally Authenticated Derivation of Privacy Restricted Type 42 Keys](./key-derivation/0086.md)
 
 ## Outpoints
 
