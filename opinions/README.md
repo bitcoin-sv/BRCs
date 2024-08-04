@@ -9,3 +9,5 @@ BRC  | Standard
 57   | [Legitimate Uses for mAPI](./0057.md)
 59   | [Security and Scalability Benefits of UTXO-based Overlay Networks](./0059.md)
 80   | [Improving on MLD for BSV Multicast Services](./0080.md)
+89   | [Web 3.0 Standard (at a high level)](./0089.md)
+90   | [Thoughts on the Mandala Network](./0090.md)

@@ -135,6 +135,8 @@ BRC | Standard
 86   | [Bidirectionally Authenticated Derivation of Privacy Restricted Type 42 Keys](./key-derivation/0086.md)
 87   | [Standardized Naming Conventions for BRC-22 Topic Managers and BRC-24 Lookup Services](./overlays/0087.md)
 88   | [Overlay Services Synchronization Architecture](./overlays/0088.md)
+89   | [Web 3.0 Standard (at a high level)](./0089.md)
+90   | [Thoughts on the Mandala Network](./0090.md)
 
 ## License
 
