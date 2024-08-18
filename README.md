@@ -137,6 +137,7 @@ BRC | Standard
 88   | [Overlay Services Synchronization Architecture](./overlays/0088.md)
 89   | [Web 3.0 Standard (at a high level)](./opinions/0089.md)
 90   | [Thoughts on the Mandala Network](./opinions/0090.md)
+91   | [Outputs, Overlays, and Scripts in the Mandala Network](./opinions/0091.md)
 
 ## License
 
