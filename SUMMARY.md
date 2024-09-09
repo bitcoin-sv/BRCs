@@ -91,7 +91,7 @@
 ## Key Derivation
 
 * [BIP32 Key Derivation Scheme](./key-derivation/0032.md)
-* [Sendover Key Derivation Scheme](./key-derivation/0042.md)
+* [BSV Key Derivation Scheme (BKDS)](./key-derivation/0042.md)
 * [Security Levels, Protocol IDs, Key IDs and Counterparties](./key-derivation/0043.md)
 * [Admin-reserved and Prohibited Key Derivation Protocols](./key-derivation/0044.md)
 * [Revealing Key Linkages](./key-derivation/0069.md)
