@@ -58,7 +58,7 @@
 
 * [There is no BRC-20](./tokens/0020.md)
 * [Definition of UTXOs as Bitcoin Tokens](./tokens/0045.md)
-* [Mandala Token Protocol](./token/0092.md)
+* [Mandala Token Protocol](./tokens/0092.md)
 
 ## Overlays
 
