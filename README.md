@@ -138,7 +138,7 @@ BRC | Standard
 89   | [Web 3.0 Standard (at a high level)](./opinions/0089.md)
 90   | [Thoughts on the Mandala Network](./opinions/0090.md)
 91   | [Outputs, Overlays, and Scripts in the Mandala Network](./opinions/0091.md)
-92   | [Via Token Protocol](./token/0092.md)
+92   | [Mandala Token Protocol](./token/0092.md)
 
 ## License
 
