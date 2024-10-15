@@ -139,6 +139,8 @@ BRC | Standard
 90   | [Thoughts on the Mandala Network](./opinions/0090.md)
 91   | [Outputs, Overlays, and Scripts in the Mandala Network](./opinions/0091.md)
 92   | [Mandala Token Protocol](./tokens/0092.md)
+93   | [Limitations of BRC-69 Key Linkage Revelation](./key-derivation/0093.md)
+94   | [Verifiable Shared Secret Revelation with Chaum-Pedersen Proofs](./key-derivation/0094.md)
 
 ## License
 
