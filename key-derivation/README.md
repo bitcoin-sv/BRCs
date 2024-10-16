@@ -13,3 +13,5 @@ BRC | Standard
 75   | [Mnemonic For Master Private Key](./0075.md)
 84   | [Linked Key Derivation Scheme](./0084.md)
 86   | [Bidirectionally Authenticated Derivation of Privacy Restricted Type 42 Keys](./0086.md)
+93   | [Limitations of BRC-69 Key Linkage Revelation](./0093.md)
+94   | [Verifiable Revelation of Shared Secrets Using Schnorr Protocol](./0094.md)
