@@ -20,3 +20,4 @@ BRC | Standard
 76   | [Graph Aware Sync Protocol](./0076.md)
 83   | [Scalable Transaction Processing in the BSV Network](./0083.md)
 95   | [Atomic BEEF Transactions](./0095.md)
+96   | [BEEF V2 Txid Only Extension](./0096.md)

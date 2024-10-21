@@ -142,6 +142,7 @@ BRC | Standard
 93   | [Limitations of BRC-69 Key Linkage Revelation](./key-derivation/0093.md)
 94   | [Verifiable Revelation of Shared Secrets Using Schnorr Protocol](./key-derivation/0094.md)
 95   | [Atomic BEEF Transactions](./transactions/0095.md)
+96   | [BEEF V2 Txid Only Extension](./transactions/0096.md)
 
 ## License
 
