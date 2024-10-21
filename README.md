@@ -141,6 +141,7 @@ BRC | Standard
 92   | [Mandala Token Protocol](./tokens/0092.md)
 93   | [Limitations of BRC-69 Key Linkage Revelation](./key-derivation/0093.md)
 94   | [Verifiable Revelation of Shared Secrets Using Schnorr Protocol](./key-derivation/0094.md)
+95   | [Atomic BEEF Transactions](./transactions/0095.md)
 
 ## License
 
