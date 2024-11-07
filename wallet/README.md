@@ -18,3 +18,7 @@ BRC | Standard
 65   | [Transaction Labels and List Actions](./0065.md)
 66   | [Output Basket Removal and Certificate Deletion](./0066.md)
 73   | [Group Permissions for App Access](./0073.md)
+97   | [Extensible Proof-Type Format for Specific Key Linkage Claims](./0097.md)
+98   | [P Protocols: Allowing Future Wallet Protocol Permission Schemes](./0098.md)
+99   | [P Baskets: Allowing Future Wallet Basket and Digital Asset Permission Schemes](./0099.md)
+100  | [Unified, Vendor-Neutral, Unchanging, and Open BSV Blockchain Standard Wallet-to-Application Interface](./0100.md)

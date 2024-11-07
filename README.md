@@ -143,6 +143,10 @@ BRC | Standard
 94   | [Verifiable Revelation of Shared Secrets Using Schnorr Protocol](./key-derivation/0094.md)
 95   | [Atomic BEEF Transactions](./transactions/0095.md)
 96   | [BEEF V2 Txid Only Extension](./transactions/0096.md)
+97   | [Extensible Proof-Type Format for Specific Key Linkage Claims](./wallet/0097.md)
+98   | [P Protocols: Allowing future wallet protocol permission schemes](./wallet/0098.md)
+99   | [P Baskets: Allowing Future Wallet Basket and Digital Asset Permission Schemes](./wallet/0099.md)
+100  | [Unified, Vendor-Neutral, Unchanging, and Open BSV Blockchain Standard Wallet-to-Application Interface](./wallet/0100.md)
 
 ## License
 
