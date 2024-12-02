@@ -13,3 +13,4 @@ BRC | Standard
 81   | [Private Overlays with P2PKH Transactions](./0081.md)
 87   | [Standardized Naming Conventions for BRC-22 Topic Managers and BRC-24 Lookup Services](./0087.md)
 88   | [Overlay Services Synchronization Architecture](./0088.md)
+101  | [Diverse Facilitators and URL Protocols for SHIP and SLAP Overlay Advertisements](./0101.md)

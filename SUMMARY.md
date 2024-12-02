@@ -4,7 +4,6 @@
 
 * [Discuss on Github](https://github.com/bitcoin-sv/BRCs/issues/new/choose)
 
-
 ## Example
 
 * [Banana-Powered Bitcoin Wallet Control Protocol](./EXAMPLE.md)
@@ -22,7 +21,13 @@
 * [Submitting Received Payments to a Wallet](./wallet/0050.md)
 * [Certificate Creation and Revelation](./wallet/0053.md)
 * [Unified Abstract Wallet-to-Application Messaging Layer](./wallet/0056.md)
+* [Transaction Labels and List Actions](./wallet/0065.md)
+* [Output Basket Removal and Certificate Deletion](./wallet/0066.md)
 * [Group Permissions for App Access](./wallet/0073.md)
+* [Extensible Proof-Type Format for Specific Key Linkage Claims](./wallet/0097.md)
+* [P Protocols: Allowing future wallet protocol permission schemes](./wallet/0098.md)
+* [P Baskets: Allowing Future Wallet Basket and Digital Asset Permission Schemes](./wallet/0099.md)
+* [Unified, Vendor-Neutral, Unchanging, and Open BSV Blockchain Standard Wallet-to-Application Interface](./wallet/0100.md)
 
 ## Transactions
 
@@ -33,7 +38,7 @@
 * [Raw Transaction Format](./transactions/0012.md)
 * [TXO Transaction Object Format](./transactions/0013.md)
 * [Transaction Extended Format (EF)](./transactions/0030.md)
-* [Merkle Path Data Model](./transactions/0058.md)
+* [Merkle Path JSON format](./transactions/0058.md)
 * [Compound Merkle Path Format](./transactions/0061.md)
 * [Background Evaluation Extended Format (BEEF) Transactions](./transactions/0062.md)
 * [Simplified Payment Verification](./transactions/0067.md)
@@ -42,6 +47,7 @@
 * [Graph Aware Sync Protocol](./transactions/0076.md)
 * [Scalable Transaction Processing in the BSV Network](./transactions/0083.md)
 * [Atomic BEEF Transactions](./transactions/0095.md)
+* [BEEF V2 Txid Only Extension](./transactions/0096.md)
 
 ## Scripts
 
@@ -59,6 +65,7 @@
 
 * [There is no BRC-20](./tokens/0020.md)
 * [Definition of UTXOs as Bitcoin Tokens](./tokens/0045.md)
+* [Token Exchange Protocol for UTXO-based Overlay Networks](./tokens/0079.md)
 * [Mandala Token Protocol](./tokens/0092.md)
 
 ## Overlays
@@ -68,6 +75,11 @@
 * [Overlay Network Lookup Services](./overlays/0024.md)
 * [Confederacy Lookup Availability Protocol (CLAP)](./overlays/0025.md)
 * [Universal Hash Resolution Protocol](./overlays/0026.md)
+* [Overlay Network Transaction History Tracking](./overlays/0064.md)
+* [Private Overlays with P2PKH Transactions](./overlays/0081.md)
+* [Standardized Naming Conventions for BRC-22 Topic Managers and BRC-24 Lookup Services](./overlays/0087.md)
+* [Overlay Services Synchronization Architecture](./overlays/0088.md)
+* [Diverse Facilitators and URL Protocols for SHIP and SLAP Overlay Advertisements](./overlays/0101.md)
 
 ## Payments
 
@@ -84,10 +96,12 @@
 * [Authrite Mutual Authentication](./peer-to-peer/0031.md)
 * [PeerServ Message Relay Interface](./peer-to-peer/0033.md)
 * [PeerServ Host Interconnect Protocol](./peer-to-peer/0034.md)
-* [Publishing Trust Anchor Details at an Internet Domain](./peer-to-peer/0068.md)
 * [Identity Certificates](./peer-to-peer/0052.md)
+* [Genealogical Identity Protocol](./peer-to-peer/0063.md)
+* [Publishing Trust Anchor Details at an Internet Domain](./peer-to-peer/0068.md)
 * [Message Signature Creation and Verification](./peer-to-peer/0077.md)
 * [Serialization Format for Portable Encrypted Messages](./peer-to-peer/0078.md)
+* [Defining a Scalable IPv6 Multicast Protocol for Blockchain Transaction Broadcast and Update Delivery](./peer-to-peer/0082.md)
 * [Proven Identity Key Exchange (PIKE)](./peer-to-peer/0085.md)
 
 ## Key Derivation
@@ -115,6 +129,10 @@
 * [List of user experiences](./opinions/0051.md)
 * [Legitimate Uses for mAPI](./opinions/0057.md)
 * [Security and Scalability Benefits of UTXO-based Overlay Networks](./opinions/0059.md)
+* [Improving on MLD for BSV Multicast Services](./opinions/0080.md)
+* [Web 3.0 Standard (at a high level)](./opinions/0089.md)
+* [Thoughts on the Mandala Network](./opinions/0090.md)
+* [Outputs, Overlays, and Scripts in the Mandala Network](./opinions/0091.md)
 
 ## State Machines
 
