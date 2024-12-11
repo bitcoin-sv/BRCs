@@ -148,6 +148,7 @@ BRC | Standard
 99   | [P Baskets: Allowing Future Wallet Basket and Digital Asset Permission Schemes](./wallet/0099.md)
 100  | [Unified, Vendor-Neutral, Unchanging, and Open BSV Blockchain Standard Wallet-to-Application Interface](./wallet/0100.md)
 101  | [Diverse Facilitators and URL Protocols for SHIP and SLAP Overlay Advertisements](./overlays/0101.md)
+102  | [The deployment-info.json Specification](./apps/0102.md)
 
 ## License
 

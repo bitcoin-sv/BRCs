@@ -8,6 +8,10 @@
 
 * [Banana-Powered Bitcoin Wallet Control Protocol](./EXAMPLE.md)
 
+## Apps
+
+* [The deployment-info.json Specification](./apps/0102.md)
+
 ## Wallet
 
 * [Transaction Creation](./wallet/0001.md)
