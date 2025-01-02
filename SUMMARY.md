@@ -107,6 +107,8 @@
 * [Serialization Format for Portable Encrypted Messages](./peer-to-peer/0078.md)
 * [Defining a Scalable IPv6 Multicast Protocol for Blockchain Transaction Broadcast and Update Delivery](./peer-to-peer/0082.md)
 * [Proven Identity Key Exchange (PIKE)](./peer-to-peer/0085.md)
+* [Peer-to-Peer Mutual Authentication and Certificate Exchange Protocol](./peer-to-peer/0103.md)
+* [HTTP Transport for BRC-103 Mutual Authentication](./peer-to-peer/0104.md)
 
 ## Key Derivation
 

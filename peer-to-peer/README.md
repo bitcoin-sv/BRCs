@@ -14,3 +14,5 @@ BRC | Standard
 78   | [Serialization Format for Portable Encrypted Messages](./0078.md)
 82   | [Defining a Scalable IPv6 Multicast Protocol for Blockchain Transaction Broadcast and Update Delivery](./0082.md)
 85   | [Proven Identity Key Exchange (PIKE)](./0085.md)
+103  | [Peer-to-Peer Mutual Authentication and Certificate Exchange Protocol](./0103.md)
+104  | [HTTP Transport for BRC-103 Mutual Authentication](./0104.md)
