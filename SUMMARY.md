@@ -94,6 +94,7 @@
 * [Hybrid Payment Mode for DPP](./payments/0054.md)
 * [HTTPS Transport Mechanism for DPP](./payments/0055.md)
 * [Paymail BEEF Transaction](./payments/0070.md)
+* [HTTP Service Monetization Framework](./payments/0105.md)
 
 ## Peer-to-Peer
 

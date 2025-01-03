@@ -11,3 +11,4 @@ BRC | Standard
 54   | [Hybrid Payment Mode for DPP](./0054.md)
 55   | [HTTPS Transport Mechanism for DPP](./0055.md)
 70   | [Paymail Receieve BEEF](./0070.md)
+105  | [HTTP Service Monetization Framework](./0105.md)

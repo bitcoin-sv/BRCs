@@ -151,6 +151,7 @@ BRC | Standard
 102  | [The deployment-info.json Specification](./apps/0102.md)
 103  | [Peer-to-Peer Mutual Authentication and Certificate Exchange Protocol](./peer-to-peer/0103.md)
 104  | [HTTP Transport for BRC-103 Mutual Authentication](./peer-to-peer/0104.md)
+105  | [HTTP Service Monetization Framework](./payments/0105.md)
 
 ## License
 
