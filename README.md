@@ -156,3 +156,8 @@ BRC | Standard
 ## License
 
 Everything in this repository is subject to the [Open BSV License](https://github.com/bitcoin-sv/bitcoin-sv/blob/master/LICENSE).
+
+## Terms and Conditions
+
+[Download the full Terms of Use (PDF)](https://324459963-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfVclCmeRPossA1a4BKh5%2Fuploads%2FSfgsvnKasKE24DDVkGBu%2FTerms%20of%20Use%20BSVA%20Blockchain.pdf?alt=media&token=33b377bf-c69f-4425-9330-b3ad7041e910)
+
