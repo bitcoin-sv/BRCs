@@ -152,6 +152,7 @@ BRC | Standard
 103  | [Peer-to-Peer Mutual Authentication and Certificate Exchange Protocol](./peer-to-peer/0103.md)
 104  | [HTTP Transport for BRC-103 Mutual Authentication](./peer-to-peer/0104.md)
 105  | [HTTP Service Monetization Framework](./payments/0105.md)
+106  | [PCW-1 : Peer Cash Wallet Protocol](./wallet/0106.md)
 
 ## License
 
