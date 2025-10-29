@@ -14,3 +14,4 @@ BRC  | Standard
 21   | [Push TX](./0021.md)
 47   | [Bare Multi-Signature](./0047.md)
 48   | [Pay to Push Drop](./0048.md)
+106  | [Bitcoin Script ASM Format](./0106.md)

@@ -64,6 +64,7 @@
 * [Push TX](./scripts/0021.md)
 * [Bare Multi-Signature](./scripts/0047.md)
 * [Pay to Push Drop](./scripts/0048.md)
+* [Bitcoin Script ASM Format](./scripts/0106.md)
 
 ## Tokens
 
