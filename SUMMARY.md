@@ -72,6 +72,8 @@
 * [Definition of UTXOs as Bitcoin Tokens](./tokens/0045.md)
 * [Token Exchange Protocol for UTXO-based Overlay Networks](./tokens/0079.md)
 * [Mandala Token Protocol](./tokens/0092.md)
+* [Enhanced Mandala Token Protocol](./tokens/0107.md)
+* [Identity-Linked Token Protocol](./tokens/0108.md)
 
 ## Overlays
 
