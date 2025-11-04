@@ -12,3 +12,4 @@ BRC  | Standard
 89   | [Web 3.0 Standard (at a high level)](./0089.md)
 90   | [Thoughts on the Mandala Network](./0090.md)
 91   | [Outputs, Overlays, and Scripts in the Mandala Network](./0091.md)
+110  | [Zero-Friction, Mobile-First Onboarding for MetaNet-Enabled Apps](./0110.md)
