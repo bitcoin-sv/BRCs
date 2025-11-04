@@ -153,6 +153,9 @@ BRC | Standard
 104  | [HTTP Transport for BRC-103 Mutual Authentication](./peer-to-peer/0104.md)
 105  | [HTTP Service Monetization Framework](./payments/0105.md)
 106  | [Bitcoin Script ASM Format](./scripts/0106.md)
+107  | [Bitcoin Script ASM Format](./scripts/0107.md)
+108  | [Bitcoin Script ASM Format](./scripts/0108.md)
+109  | [PCW-1 : Peer Cash Wallet Protocol](./wallet/0109.md)
 
 ## License
 
