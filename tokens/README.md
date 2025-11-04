@@ -8,5 +8,5 @@ BRC | Standard
 45   | [Definition of UTXOs as Bitcoin Tokens](./0045.md)
 79   | [Token Exchange Protocol for UTXO-based Overlay Networks](./0079.md)
 92   | [Mandala Token Protocol](./0092.md)
-106  | [Enhanced Mandala Token Protocol](./0106.md)
-107  | [Identity-Linked Token Protocol](./0107.md)
+107  | [Enhanced Mandala Token Protocol](./tokens/0107.md)
+108  | [Identity-Linked Token Protocol](./tokens/0108.md)
