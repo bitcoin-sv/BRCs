@@ -144,6 +144,7 @@
 * [Web 3.0 Standard (at a high level)](./opinions/0089.md)
 * [Thoughts on the Mandala Network](./opinions/0090.md)
 * [Outputs, Overlays, and Scripts in the Mandala Network](./opinions/0091.md)
+* [Zero-Friction, Mobile-First Onboarding for MetaNet-Enabled Apps](./opinions/0110.md)
 
 ## State Machines
 
