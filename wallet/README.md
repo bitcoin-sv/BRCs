@@ -23,3 +23,4 @@ BRC | Standard
 99   | [P Baskets: Allowing Future Wallet Basket and Digital Asset Permission Schemes](./0099.md)
 100  | [Unified, Vendor-Neutral, Unchanging, and Open BSV Blockchain Standard Wallet-to-Application Interface](./0100.md)
 109  | [PCW-1 : Peer Cash Wallet Protocol](./0109.md)
+111  | [P Labels: Allowing Future Wallet Action Label Permission Schemes](./0111.md)

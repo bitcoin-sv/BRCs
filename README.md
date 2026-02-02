@@ -157,6 +157,7 @@ BRC | Standard
 108  | [Identity-Linked Token Protocol](./tokens/0108.md)
 109  | [PCW-1 : Peer Cash Wallet Protocol](./wallet/0109.md)
 110  | [Zero-Friction, Mobile-First Onboarding for MetaNet-Enabled Apps](./opinions/0110.md)
+111  | [P Labels: Allowing Future Wallet Action Label Permission Schemes](./wallet/0111.md)
 
 ## License
 

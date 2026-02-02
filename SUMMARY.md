@@ -33,6 +33,7 @@
 * [P Baskets: Allowing Future Wallet Basket and Digital Asset Permission Schemes](./wallet/0099.md)
 * [Unified, Vendor-Neutral, Unchanging, and Open BSV Blockchain Standard Wallet-to-Application Interface](./wallet/0100.md)
 * [PCW-1 : Peer Cash Wallet Protocol](./wallet/0109.md)
+* [P Labels: Allowing Future Wallet Action Label Permission Schemes](./wallet/0111.md)
 
 ## Transactions
 
