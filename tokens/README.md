@@ -10,3 +10,4 @@ BRC | Standard
 92   | [Mandala Token Protocol](./0092.md)
 107  | [Enhanced Mandala Token Protocol](./tokens/0107.md)
 108  | [Identity-Linked Token Protocol](./tokens/0108.md)
+110  | [Identity-Linked Deterministic Token Verification Framework](./tokens/0110.md)
