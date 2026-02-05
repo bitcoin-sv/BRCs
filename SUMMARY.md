@@ -77,6 +77,7 @@
 * [Mandala Token Protocol](./tokens/0092.md)
 * [Enhanced Mandala Token Protocol](./tokens/0107.md)
 * [Identity-Linked Token Protocol](./tokens/0108.md)
+* [Merkle Proof Token](./tokens/0113.md)
 
 ## Overlays
 
