@@ -159,6 +159,7 @@ BRC | Standard
 110  | [Zero-Friction, Mobile-First Onboarding for MetaNet-Enabled Apps](./opinions/0110.md)
 111  | [P Labels: Allowing Future Wallet Action Label Permission Schemes](./wallet/0111.md)
 112  | [Balance Baskets: Backwards-Compatible Basket Balance Queries](./wallet/0112.md)
+113  | [Merkle Proof Token](./tokens/0113.md)
 
 ## License
 
