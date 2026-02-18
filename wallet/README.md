@@ -25,3 +25,4 @@ BRC | Standard
 109  | [PCW-1 : Peer Cash Wallet Protocol](./0109.md)
 111  | [P Labels: Allowing Future Wallet Action Label Permission Schemes](./0111.md)
 112  | [Balance Baskets: Backwards-Compatible Basket Balance Queries](./0112.md)
+115  | [Wallet Permissions and Counterparty Trust (PACT)](./0115.md)

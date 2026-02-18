@@ -35,6 +35,7 @@
 * [PCW-1 : Peer Cash Wallet Protocol](./wallet/0109.md)
 * [P Labels: Allowing Future Wallet Action Label Permission Schemes](./wallet/0111.md)
 * [Balance Baskets: Backwards-Compatible Basket Balance Queries](./wallet/0112.md)
+* [Wallet Permissions and Counterparty Trust (PACT)](./wallet/0115.md)
 
 ## Transactions
 

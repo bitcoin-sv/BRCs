@@ -160,6 +160,7 @@ BRC | Standard
 111  | [P Labels: Allowing Future Wallet Action Label Permission Schemes](./wallet/0111.md)
 112  | [Balance Baskets: Backwards-Compatible Basket Balance Queries](./wallet/0112.md)
 113  | [Merkle Proof Token](./tokens/0113.md)
+115  | [Wallet Permissions and Counterparty Trust (PACT)](./wallet/0115.md)
 
 ## License
 
