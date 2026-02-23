@@ -11,3 +11,4 @@ BRC | Standard
 107  | [Enhanced Mandala Token Protocol](./0107.md)
 108  | [Identity-Linked Token Protocol](./0108.md)
 113  | [Merkle Proof Token](./0113.md)
+116  | [Proof-of-Indexing Hash-to-Mint Tokens](./0116.md)
