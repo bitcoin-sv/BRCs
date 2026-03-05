@@ -213,6 +213,7 @@ interface WorkItem {
 | `content_served` | Client serves content to a peer who presented a valid ticket | `{ contentHash, requesterPeerId, bytesServed, ticketTokenId, stampSignature }` |
 | `stamp_validated` | Client validates a ticket's stamp chain (all signatures) | `{ ticketUtxo, chainLength, isValid, tokenId }` |
 | `market_indexed` | Client indexes a listing or sale on a BSV-21 marketplace | `{ listingTxid, tokenId, action, priceSats }` |
+| `x402_settled` | Client indexes an x402 payment settlement (HTTP 402 micropayment) | `{ challengeHash, paymentTxid, amountSats, domain, path, scheme }` |
 | `peer_relayed` | Client forwards a valid gossip message to peers | `{ messageHash, messageType, relayedTo }` |
 
 **OPEN QUESTION 3: Work type extensibility.**
@@ -381,6 +382,12 @@ Otherwise:        difficulty unchanged
 
 **Time source:** If on-chain difficulty adjustment is used (Option B below), the contract requires a reliable measure of elapsed time. Viable approaches include: (a) using `nLockTime` constraints to embed block height or timestamp in the spending transaction, allowing the contract to compute elapsed time between adjustment epochs; (b) reading block header timestamps via sCrypt's transaction context if available; or (c) tracking only `mintCount` (already in state) and relying on the off-chain network to supply wall-clock time as a signed oracle input. Approach (a) is recommended as it requires no external oracle and is enforceable by Transaction Processors.
 
+#### 5.4 Difficulty Bounds
+
+Implementations MUST define a **floor** (easiest possible target) to prevent trivially easy mining. The recommended floor is 2 leading hex zeros (`00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff`).
+
+Implementations SHOULD NOT impose an artificial **ceiling** (hardest possible target). Difficulty must be allowed to scale without bound as network hashrate grows. The natural ceiling is determined by physical limits (thermodynamics, chip fabrication, energy cost) — not by software. This is consistent with the design goal that PoW nodes scale into large commercial operations: an artificial ceiling would cap the incentive to invest in more powerful hardware, undermining the accountability that difficulty-driven scaling provides.
+
 **OPEN QUESTION 6: On-chain vs off-chain difficulty adjustment.**
 
 - **Option A — Fixed on-chain difficulty.** The contract's difficulty never changes. Simple and trustless but cannot adapt to changing hashrate.
@@ -406,7 +413,9 @@ BRC-116 tokens are not required to access content. Users purchase content tokens
 
 Content tokens function as tickets with cryptographic provenance (see BRC-104<sup>[3](#footnote-3)</sup> for the authentication substrate). When a node serves content in exchange for a ticket, it creates a stamp — a signed record of the serve event. These stamps form a chain of provenance that is both a quality signal and a source of `content_served` work items for BRC-116 mining.
 
-Where HTTP endpoints are monetized (e.g., paid content serving that generates `content_served` work items), implementations SHOULD use BRC-105<sup>[4](#footnote-4)</sup> to define the payment challenge/response flow. This ensures interoperability with other BSV services that implement the HTTP 402 monetization pattern.
+Where HTTP endpoints are monetized (e.g., paid content serving that generates `content_served` work items), implementations SHOULD use the x402 Stateless Settlement-Gated HTTP Protocol<sup>[14](#footnote-14)</sup> to define the payment challenge/response flow. x402 defines a deterministic use of HTTP status code 402 where clients prove BSV payment via `X402-Challenge` and `X402-Proof` headers, with replay protection achieved through UTXO nonce spending. This is the RECOMMENDED approach for BRC-116 content serving monetization, as it provides stateless, account-free payment authorization that aligns with the overlay network's UTXO-based architecture. Implementations MAY also use BRC-105<sup>[4](#footnote-4)</sup> as an alternative HTTP monetization framework.
+
+Each x402 settlement observed on the network generates an `x402_settled` work item (Section 3.2), creating a virtuous cycle: the payment layer feeds the indexing layer, and the indexing layer serves the payment layer.
 
 #### 6.3 Relationship to BRC-24 Lookup Services
 
@@ -420,7 +429,7 @@ The following parameters are recommended for the initial deployment of a BRC-116
 |-----------|-------------------|-----------|
 | `max` | 21,000,000 | Familiar supply cap, sufficient for large networks |
 | `lim` | 1,000 | Balanced: not so large that early miners dominate, not so small that mining is unrewarding |
-| `difficulty` | 5 (leading zero bytes) | ~1 in 1,048,576 per hash. CPU-mineable on commodity hardware. |
+| `difficulty` | 5 (leading zero bytes) | Initial difficulty only. ~1 in 1,048,576 per hash. CPU-mineable on commodity hardware at launch. Scales upward without bound as hashrate grows (Section 5.4). |
 | `halvingInterval` | 10,500 | With 1 mint/minute target: first halving after ~7.3 days. Fast enough to create scarcity. |
 | `decimals` | 0 | Whole tokens. Simplifies contract logic. |
 
@@ -525,3 +534,4 @@ Feedback may be submitted as issues on the [BRC repository](https://github.com/b
 11. <a id="footnote-11"></a> BRC-100: Wallet-to-Application Interaction Substrate. [github.com/bitcoin-sv/BRCs](https://github.com/bitcoin-sv/BRCs)
 12. <a id="footnote-12"></a> BRC-103: Peer-to-Peer Mutual Authentication. [github.com/bitcoin-sv/BRCs](https://github.com/bitcoin-sv/BRCs)
 13. <a id="footnote-13"></a> BRC-24: Overlay Lookup Services. [github.com/bitcoin-sv/BRCs](https://github.com/bitcoin-sv/BRCs)
+14. <a id="footnote-14"></a> x402: Stateless Settlement-Gated HTTP Protocol. Rui Da Silva / Merkle Works, 2026. [github.com/ruidasilva/merkleworks-x402-spec](https://github.com/ruidasilva/merkleworks-x402-spec)
