@@ -162,6 +162,7 @@ BRC | Standard
 113  | [Merkle Proof Token](./tokens/0113.md)
 114  | [Time Labels: Backwards-Compatible Action Timestamp Filters for List Actions](./wallet/0114.md)
 115  | [Identity-Linked Deterministic Token Verification Framework](./tokens/0115.md)
+116  | [Wallet Permissions and Counterparty Trust](./wallet/0116.md)
 
 ## License
 
