@@ -103,6 +103,7 @@
 * [HTTPS Transport Mechanism for DPP](./payments/0055.md)
 * [Paymail BEEF Transaction](./payments/0070.md)
 * [HTTP Service Monetization Framework](./payments/0105.md)
+* [Multipart Body Transport for BRC-105 Payments](./payments/0115.md)
 
 ## Peer-to-Peer
 
