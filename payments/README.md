@@ -12,3 +12,4 @@ BRC | Standard
 55   | [HTTPS Transport Mechanism for DPP](./0055.md)
 70   | [Paymail Receieve BEEF](./0070.md)
 105  | [HTTP Service Monetization Framework](./0105.md)
+118  | [Multipart Body Transport for BRC-105 Payments](./0118.md)
