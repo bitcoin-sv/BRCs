@@ -163,6 +163,7 @@ BRC | Standard
 114  | [Time Labels: Backwards-Compatible Action Timestamp Filters for List Actions](./wallet/0114.md)
 115  | [Identity-Linked Deterministic Token Verification Framework](./tokens/0115.md)
 116  | [Wallet Permissions and Counterparty Trust](./wallet/0116.md)
+117  | [Proof-of-Indexing Hash-to-Mint Tokens](./tokens/0117.md)
 
 ## License
 

@@ -12,3 +12,4 @@ BRC | Standard
 108  | [Identity-Linked Token Protocol](./0108.md)
 113  | [Merkle Proof Token](./0113.md)
 115  | [Identity-Linked Deterministic Token Verification Framework](./0115.md)
+117  | [Proof-of-Indexing Hash-to-Mint Tokens](./0117.md)

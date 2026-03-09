@@ -81,6 +81,7 @@
 * [Identity-Linked Token Protocol](./tokens/0108.md)
 * [Merkle Proof Token](./tokens/0113.md)
 * [Identity-Linked Deterministic Token Verification Framework](./tokens/0115.md)
+* [Proof-of-Indexing Hash-to-Mint Tokens](./tokens/0117.md)
 
 ## Overlays
 
