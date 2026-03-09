@@ -1,0 +1,22 @@
+name: Sync README on Merge
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  sync-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait 5 minutes after merge
+        run: sleep 300
+
+      - name: Trigger README sync
+        run: |
+          curl -f 'https://brc.dev/sync/readme' \
+            -H 'accept: */*' \
+            -H 'content-type: application/json' \
+            --data-raw "{\"key\":\"$BRC_AUTH_KEY\"}"
+        env:
+          BRC_AUTH_KEY: ${{ secrets.BRC_AUTH_KEY }}
