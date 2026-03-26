@@ -13,3 +13,4 @@ BRC | Standard
 70   | [Paymail Receieve BEEF](./0070.md)
 105  | [HTTP Service Monetization Framework](./0105.md)
 118  | [Multipart Body Transport for BRC-105 Payments](./0118.md)
+120  | [x402 Stateless Settlement-Gated HTTP Protocol](./0120.md)

@@ -166,6 +166,7 @@ BRC | Standard
 117  | [Proof-of-Indexing Hash-to-Mint Tokens](./tokens/0117.md)
 118  | [Multipart Body Transport for BRC-105 Payments](./payments/0118.md)
 119  | [SubTree Unified Merkle Path (STUMP) Format](./transactions/0119.md)
+120  | [x402 Stateless Settlement-Gated HTTP Protocol](./payments/0120.md)
 
 ## License
 
