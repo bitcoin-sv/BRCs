@@ -14,4 +14,4 @@ BRC | Standard
 105  | [HTTP Service Monetization Framework](./0105.md)
 118  | [Multipart Body Transport for BRC-105 Payments](./0118.md)
 120  | [x402 Stateless Settlement-Gated HTTP Protocol](./0120.md)
-121  | [HTTP 402 Payment Protocol for Content Monetization](./0121.md)
+121  | [Simple 402 Payments](./0121.md)
