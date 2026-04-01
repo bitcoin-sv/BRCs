@@ -109,6 +109,7 @@
 * [HTTP Service Monetization Framework](./payments/0105.md)
 * [Multipart Body Transport for BRC-105 Payments](./payments/0118.md)
 * [x402 Stateless Settlement-Gated HTTP Protocol](./payments/0120.md)
+* [HTTP 402 Payment Protocol for Content Monetization](./payments/0121.md)
 
 ## Peer-to-Peer
 
