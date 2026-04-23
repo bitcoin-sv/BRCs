@@ -81,7 +81,7 @@ BRC | Standard
 32   | [BIP32 Key Derivation Scheme](./key-derivation/0032.md)
 33   | [PeerServ Message Relay Interface](./peer-to-peer/0033.md)
 34   | [PeerServ Host Interconnect Protocol](./peer-to-peer/0034.md)
-35   | (unused, will assign next BRC to this number)
+35   | [Layered Key-Value Store for Wallets and Overlay Services](./overlays/0035.md)
 36   | [Format for Bitcoin Outpoints](./outpoints/0036.md)
 37   | [Spending Instructions Extension for UTXO Storage Format](./outpoints/0037.md)
 38   | User Wallet Data Format
