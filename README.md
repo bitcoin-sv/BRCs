@@ -89,10 +89,10 @@ BRC | Standard
 34   | [PeerServ Host Interconnect Protocol](./peer-to-peer/0034.md)
 35   | [Layered Key-Value Store for Wallets and Overlay Services](./overlays/0035.md)
 36   | [Format for Bitcoin Outpoints](./outpoints/0036.md)
-37   | [Spending Instructions Extension for UTXO Storage Format](./outpoints/0037.md)
-38   | Placeholder only, no spec published here
-39   | Placeholder only, no spec published here
-40   | Placeholder only, no spec published here
+37   | [Basket and Custom Instructions Extension for Bitcoin Outpoints](./outpoints/0037.md)
+38   | [User Wallet Data Format](./outpoints/0038.md)
+39   | [User Wallet Data Format Encryption Extension](./outpoints/0039.md)
+40   | [User Wallet Data Synchronization](./outpoints/0040.md)
 41   | [PacketPay HTTP Payment Mechanism](./payments/0041.md)
 42   | [BSV Key Derivation Scheme (BKDS)](./key-derivation/0042.md)
 43   | [Security Levels, Protocol IDs, Key IDs and Counterparties](./key-derivation/0043.md)

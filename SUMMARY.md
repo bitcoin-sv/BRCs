@@ -144,7 +144,10 @@
 ## Outpoints
 
 * [Format for Bitcoin Outpoints](./outpoints/0036.md)
-* [Spending Instructions Extension for UTXO Storage Format](./outpoints/0037.md)
+* [Basket and Custom Instructions Extension for Bitcoin Outpoints](./outpoints/0037.md)
+* [User Wallet Data Format](./outpoints/0038.md)
+* [User Wallet Data Format Encryption Extension](./outpoints/0039.md)
+* [User Wallet Data Synchronization](./outpoints/0040.md)
 
 ## Opinions
 
