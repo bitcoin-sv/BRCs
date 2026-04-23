@@ -4,7 +4,7 @@ A repository for submitting, discussing, sharing, and indexing technical proposa
 
 ## Contributing
 
-Contributions from all builders are welcome and encouraged. To propose a new BRC, fork the repo and create a new markdown file using the [~EXAMPLE.md](./~EXAMPLE.md) as the template. The common structure is outlined below, which is a guideline to aid you rather than a strict requirement. Once your proposal is ready to share, submit a pull request so that others can review and discuss it.
+Contributions from all builders are welcome and encouraged. To propose a new BRC, fork the repo and create a new markdown file using [EXAMPLE.md](./EXAMPLE.md) as the template. The common structure is outlined below, which is a guideline to aid you rather than a strict requirement. Once your proposal is ready to share, submit a pull request so that others can review and discuss it.
 
 To participate in discussions about existing proposals, simply open an issue and link back to the BRC file in question.
 
@@ -40,7 +40,13 @@ Each proposal should be written as a markdown file and should loosely adhere to 
 
 Things that help depict and understand the document, such as media, may also be added in a media subdirectory where appropriate.
 
-Refer to the [Banana-Powered Bitcoin Wallet Control Protocol](./~EXAMPLE.md) for a fun example template you can copy when proposing your own standards.
+Refer to the [Banana-Powered Bitcoin Wallet Control Protocol](./EXAMPLE.md) for a fun example template you can copy when proposing your own standards.
+
+## Interpreting the Repository
+
+This repository contains both active interoperability specifications and historical design context.
+
+Use the directory README files and in-spec status notes to determine which documents currently define interoperable behavior in a given area. Where a newer BRC narrows, extends, or authoritatively re-specifies behavior, implementers should follow the newer normative document rather than inferring precedence from chronology alone.
 
 ## Standards
 
@@ -84,9 +90,9 @@ BRC | Standard
 35   | [Layered Key-Value Store for Wallets and Overlay Services](./overlays/0035.md)
 36   | [Format for Bitcoin Outpoints](./outpoints/0036.md)
 37   | [Spending Instructions Extension for UTXO Storage Format](./outpoints/0037.md)
-38   | User Wallet Data Format
-39   | User Wallet Data Format Encryption Extension
-40   | User Wallet Data Synchronization
+38   | Placeholder only, no spec published here
+39   | Placeholder only, no spec published here
+40   | Placeholder only, no spec published here
 41   | [PacketPay HTTP Payment Mechanism](./payments/0041.md)
 42   | [BSV Key Derivation Scheme (BKDS)](./key-derivation/0042.md)
 43   | [Security Levels, Protocol IDs, Key IDs and Counterparties](./key-derivation/0043.md)
