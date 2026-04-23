@@ -18,6 +18,17 @@ We look forward to your contributions and helping to create a world where transa
 
 Read more about areas of interest on [OpenStandards.cash](https://openstandards.cash)
 
+## Current implementation map
+
+The standards in this repository are vendor-neutral. Current BSV Association reference implementations include:
+
+- `@bsv/sdk` for TypeScript SDK primitives, transactions, identities, overlays, storage, and the BRC-100 `WalletClient` interface.
+- `@bsv/wallet-toolbox` for BRC-100 wallet storage, services, signing, monitoring, and wallet implementation tooling.
+- BSV Desktop and BSV Browser as BSV Association reference wallet/browser applications for the BRC-100 interface.
+- Overlay service implementations in `bsv-blockchain/overlay-services`, `bsv-blockchain/overlay-express`, and related overlay example repositories.
+
+Vendor distributions can implement the same standards with their own branding and hosted service defaults. Examples include Babbage's Metanet Desktop / Metanet Explorer as well as the Hudos Browser built by Matt Archbold.
+
 ## Structure
 
 The BRCs repository is organized into directories, each representing a different category of proposal. Categories may include, but are not limited to:
