@@ -185,6 +185,7 @@ BRC | Standard
 119  | [SubTree Unified Merkle Path (STUMP) Format](./transactions/0119.md)
 120  | [x402 Stateless Settlement-Gated HTTP Protocol](./payments/0120.md)
 121  | [Simple 402 Payments](./payments/0121.md)
+122  | [Basket Identifier Namespace Framework](./wallet/0122.md)
 
 ## License
 
