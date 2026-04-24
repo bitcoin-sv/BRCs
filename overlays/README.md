@@ -9,6 +9,7 @@ BRC | Standard
 24   | [Overlay Network Lookup Services](./0024.md)
 25   | [Confederacy Lookup Availability Protocol (CLAP)](./0025.md)
 26   | [Universal Hash Resolution Protocol](./0026.md)
+35   | [Layered Key-Value Store for Wallets and Overlay Services](./0035.md)
 64   | [Overlay Network Transaction History Tracking](./0064.md)
 81   | [Private Overlays with P2PKH Transactions](./0081.md)
 87   | [Standardized Naming Conventions for BRC-22 Topic Managers and BRC-24 Lookup Services](./0087.md)

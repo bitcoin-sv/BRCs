@@ -91,6 +91,7 @@
 * [Overlay Network Lookup Services](./overlays/0024.md)
 * [Confederacy Lookup Availability Protocol (CLAP)](./overlays/0025.md)
 * [Universal Hash Resolution Protocol](./overlays/0026.md)
+* [Layered Key-Value Store for Wallets and Overlay Services](./overlays/0035.md)
 * [Overlay Network Transaction History Tracking](./overlays/0064.md)
 * [Private Overlays with P2PKH Transactions](./overlays/0081.md)
 * [Standardized Naming Conventions for BRC-22 Topic Managers and BRC-24 Lookup Services](./overlays/0087.md)
@@ -143,7 +144,10 @@
 ## Outpoints
 
 * [Format for Bitcoin Outpoints](./outpoints/0036.md)
-* [Spending Instructions Extension for UTXO Storage Format](./outpoints/0037.md)
+* [Basket and Custom Instructions Extension for Bitcoin Outpoints](./outpoints/0037.md)
+* [User Wallet Data Format](./outpoints/0038.md)
+* [User Wallet Data Format Encryption Extension](./outpoints/0039.md)
+* [User Wallet Data Synchronization](./outpoints/0040.md)
 
 ## Opinions
 

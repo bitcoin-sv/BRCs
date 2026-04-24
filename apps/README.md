@@ -1,6 +1,6 @@
 # Apps
 
-These specifications describe schemas, templates, and conventions related toe BSV app development.
+These specifications describe schemas, templates, and conventions related to BSV app development.
 
 BRC   | Standard
 ------|------------------

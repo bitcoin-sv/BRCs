@@ -10,7 +10,7 @@ BRC  | Standard
 17   | [Pay to R Puzzle Hash](./0017.md)
 18   | [Pay to False Return](./0018.md)
 19   | [Pay to True Return](./0019.md)
-20   |
+20   | See [tokens/0020.md](../tokens/0020.md)
 21   | [Push TX](./0021.md)
 47   | [Bare Multi-Signature](./0047.md)
 48   | [Pay to Push Drop](./0048.md)
