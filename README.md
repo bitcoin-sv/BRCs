@@ -168,8 +168,7 @@ BRC | Standard
 119  | [SubTree Unified Merkle Path (STUMP) Format](./transactions/0119.md)
 120  | [x402 Stateless Settlement-Gated HTTP Protocol](./payments/0120.md)
 121  | [Simple 402 Payments](./payments/0121.md)
-122  | [TEMP PLACEHOLDER TO FIGURE OUT NUMBERING]()
-123  | [Raw Multicast Transaction Format](./transactions/0123.md)
+122  | [Raw Multicast Transaction Format](./transactions/0122.md)
 
 ## License
 
