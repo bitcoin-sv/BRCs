@@ -38,6 +38,7 @@
 * [Balance Baskets: Backwards-Compatible Basket Balance Queries](./wallet/0112.md)
 * [Time Labels: Backwards-Compatible Action Timestamp Filters for List Actions](./wallet/0114.md)
 * [Wallet Permissions and Counterparty Trust](./wallet/0116.md)
+* [Basket Identifier Namespace Framework](./wallet/0123.md)
 
 ## Transactions
 

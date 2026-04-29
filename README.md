@@ -186,6 +186,7 @@ BRC | Standard
 120  | [x402 Stateless Settlement-Gated HTTP Protocol](./payments/0120.md)
 121  | [Simple 402 Payments](./payments/0121.md)
 122  | [Auditable Real-time Inference Architecture (ARIA)](./apps/0122.md)
+123  | [Basket Identifier Namespace Framework](./wallet/0123.md)
 
 ## License
 
