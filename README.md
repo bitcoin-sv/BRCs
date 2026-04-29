@@ -187,6 +187,7 @@ BRC | Standard
 121  | [Simple 402 Payments](./payments/0121.md)
 122  | [Auditable Real-time Inference Architecture (ARIA)](./apps/0122.md)
 123  | [Basket Identifier Namespace Framework](./wallet/0123.md)
+124  | [Multicast Transaction Frame Format](./transactions/0124.md)
 
 ## License
 
