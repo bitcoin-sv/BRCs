@@ -24,3 +24,4 @@ BRC | Standard
 118  | [Multipart Body Transport for BRC-105 Payments](./0118.md)
 120  | [x402 Stateless Settlement-Gated HTTP Protocol](./0120.md)
 121  | [Simple 402 Payments](./0121.md)
+125  | [PeerPay URI Scheme for BRC-29 Payments](./0125.md)
