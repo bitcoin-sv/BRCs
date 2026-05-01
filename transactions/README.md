@@ -22,4 +22,4 @@ BRC | Standard
 95   | [Atomic BEEF Transactions](./0095.md)
 96   | [BEEF V2 Txid Only Extension](./0096.md)
 119  | [SubTree Unified Merkle Path (STUMP) Format](./0119.md)
-122  | [Multicast Transaction Frame Format](./0122.md)
+124  | [Multicast Transaction Frame Format](./0124.md)
