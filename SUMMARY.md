@@ -114,6 +114,7 @@
 * [Multipart Body Transport for BRC-105 Payments](./payments/0118.md)
 * [x402 Stateless Settlement-Gated HTTP Protocol](./payments/0120.md)
 * [Simple 402 Payments](./payments/0121.md)
+* [PeerPay URI Scheme for BRC-29 Payments](./payments/0125.md)
 
 ## Peer-to-Peer
 
