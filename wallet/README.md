@@ -2,6 +2,13 @@
 
 This directory contains standards for controlling, interfacing with and extending Bitcoin wallets.
 
+Current orientation:
+
+- [BRC-100](./0100.md) is the main wallet-to-application interface specification.
+- [BRC-116](./0116.md) authoritatively specifies permission lifecycle behavior and manifest handling for current wallets.
+- [BRC-73](./0073.md) should be read as the grouped-permission declaration shape used by current wallets, alongside BRC-116.
+- [BRC-98](./0098.md), [BRC-99](./0099.md), [BRC-111](./0111.md), [BRC-112](./0112.md), and [BRC-114](./0114.md) are compatibility-oriented extensions around permission and query behavior.
+
 BRC | Standard
 -----|------------------
 1    | [Transaction Creation](./0001.md)
