@@ -189,6 +189,7 @@ BRC | Standard
 123  | [Basket Identifier Namespace Framework](./wallet/0123.md)
 124  | [Multicast Transaction Frame Format](./transactions/0124.md)
 125  | [PeerPay URI Scheme for BRC-29 Payments](./payments/0125.md)
+129  | [IPv6 Multicast Group Address Assignments](./transactions/0129.md)
 
 ## License
 
