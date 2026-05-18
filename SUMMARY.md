@@ -61,6 +61,7 @@
 * [BEEF V2 Txid Only Extension](./transactions/0096.md)
 * [SubTree Unified Merkle Path (STUMP) Format](./transactions/0119.md)
 * [Multicast Transaction Frame Format](./transactions/0124.md)
+* [Multicast Block Announcement Frame Format](./transactions/0131.md)
 
 ## Scripts
 
