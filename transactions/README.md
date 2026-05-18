@@ -23,3 +23,4 @@ BRC | Standard
 96   | [BEEF V2 Txid Only Extension](./0096.md)
 119  | [SubTree Unified Merkle Path (STUMP) Format](./0119.md)
 124  | [Multicast Transaction Frame Format](./0124.md)
+132  | [BRC-132: Subtree Data Multicast Protocol](./0132.md)
