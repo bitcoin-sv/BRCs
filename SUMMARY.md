@@ -69,6 +69,7 @@
 * [Multicast Block Announcement Frame Format](./transactions/0131.md)
 * [Subtree Data Multicast Protocol](./transactions/0132.md)
 * [Multicast Coinbase Transaction Frame Format](./transactions/0133.md)
+* [Multicast Anchor Transaction Frame Format](./transactions/0134.md)
 
 ## Scripts
 

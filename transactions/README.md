@@ -31,3 +31,4 @@ BRC | Standard
 131  | [Multicast Block Announcement Frame Format](./0131.md)
 132  | [BRC-132: Subtree Data Multicast Protocol](./0132.md)
 133  | [Multicast Coinbase Transaction Frame Format](./0133.md)
+134  | [Multicast Anchor Transaction Frame Format](./0134.md)
