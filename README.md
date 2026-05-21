@@ -199,6 +199,7 @@ BRC | Standard
 133  | [Multicast Coinbase Transaction Frame Format](./transactions/0133.md)
 134  | [Multicast Anchor Transaction Frame Format](./transactions/0134.md)
 135  | [Multicast Block Header Frame Format](./transactions/0135.md)
+136  | [Block-Anchored Overlay Synchronization via Block-Aligned Sparse Merkle Trees (BASM)](./overlays/0136.md)
 
 ## License
 
