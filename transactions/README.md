@@ -29,3 +29,4 @@ BRC | Standard
 129  | [IPv6 Multicast Group Address Assignments](./0129.md)
 130  | [Multicast Transaction Frame Fragmentation](./0130.md)
 131  | [Multicast Block Announcement Frame Format](./0131.md)
+132  | [BRC-132: Subtree Data Multicast Protocol](./0132.md)
