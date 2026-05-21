@@ -196,6 +196,7 @@ BRC | Standard
 130  | [Multicast Transaction Frame Fragmentation](./transactions/0130.md)
 131  | [Multicast Block Announcement Frame Format](./transactions/0131.md)
 132  | [Subtree Data Multicast Protocol](./transactions/0132.md)
+133  | [Multicast Coinbase Transaction Frame Format](./transactions/0133.md)
 
 ## License
 
