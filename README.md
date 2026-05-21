@@ -191,6 +191,7 @@ BRC | Standard
 125  | [PeerPay URI Scheme for BRC-29 Payments](./payments/0125.md)
 126  | [Multicast Transaction NACK Retransmission Protocol](./transactions/0126.md)
 127  | [Multicast Subtree Group Announcement Protocol](./transactions/0127.md)
+128  | [Multicast Extended Transaction Frame Format](./transactions/0128.md)
 
 ## License
 
