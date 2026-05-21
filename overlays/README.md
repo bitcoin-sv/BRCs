@@ -15,3 +15,4 @@ BRC | Standard
 87   | [Standardized Naming Conventions for BRC-22 Topic Managers and BRC-24 Lookup Services](./0087.md)
 88   | [Overlay Services Synchronization Architecture](./0088.md)
 101  | [Diverse Facilitators and URL Protocols for SHIP and SLAP Overlay Advertisements](./0101.md)
+126  | [Block-Anchored Overlay Synchronization via Block-Aligned Sparse Merkle Trees (BASM)](./0126.md)
