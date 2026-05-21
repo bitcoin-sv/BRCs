@@ -192,6 +192,7 @@ BRC | Standard
 126  | [Multicast Transaction NACK Retransmission Protocol](./transactions/0126.md)
 127  | [Multicast Subtree Group Announcement Protocol](./transactions/0127.md)
 128  | [Multicast Extended Transaction Frame Format](./transactions/0128.md)
+129  | [IPv6 Multicast Group Address Assignments](./transactions/0129.md)
 
 ## License
 

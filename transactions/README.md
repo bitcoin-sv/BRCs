@@ -26,3 +26,4 @@ BRC | Standard
 126  | [Multicast Transaction NACK Retransmission Protocol](./0126.md)
 127  | [Multicast Subtree Group Announcement Protocol](./0127.md)
 128  | [Multicast Extended Transaction Frame Format](./0128.md)
+129  | [IPv6 Multicast Group Address Assignments](./0129.md)
