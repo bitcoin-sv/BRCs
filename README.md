@@ -194,6 +194,7 @@ BRC | Standard
 128  | [Multicast Extended Transaction Frame Format](./transactions/0128.md)
 129  | [IPv6 Multicast Group Address Assignments](./transactions/0129.md)
 130  | [Multicast Transaction Frame Fragmentation](./transactions/0130.md)
+131  | [Multicast Block Announcement Frame Format](./transactions/0131.md)
 
 ## License
 
