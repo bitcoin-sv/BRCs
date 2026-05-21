@@ -34,3 +34,4 @@ BRC | Standard
 112  | [Balance Baskets: Backwards-Compatible Basket Balance Queries](./0112.md)
 114  | [Time Labels: Backwards-Compatible Action Timestamp Filters for List Actions](./0114.md)
 116  | [Wallet Permissions and Counterparty Trust](./0116.md)
+123  | [Basket Permission Scheme Registry and Governance](./0123.md)
