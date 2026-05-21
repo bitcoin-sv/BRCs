@@ -67,7 +67,7 @@
 * [IPv6 Multicast Group Address Assignments](./transactions/0129.md)
 * [Multicast Transaction Frame Fragmentation](./transactions/0130.md)
 * [Multicast Block Announcement Frame Format](./transactions/0131.md)
-* [Subtree Data Multicast Protocol](./transactions/0132.md)
+* [Multicast Subtree Data Frame Format](./transactions/0132.md)
 * [Multicast Coinbase Transaction Frame Format](./transactions/0133.md)
 * [Multicast Anchor Transaction Frame Format](./transactions/0134.md)
 * [Multicast Block Header Format](./transactions/0135.md)
