@@ -175,6 +175,7 @@
 * [Thoughts on the Mandala Network](./opinions/0090.md)
 * [Outputs, Overlays, and Scripts in the Mandala Network](./opinions/0091.md)
 * [Zero-Friction, Mobile-First Onboarding for MetaNet-Enabled Apps](./opinions/0110.md)
+* [Device-Aware Wallet Onboarding and Fallback Login for BRC-100 Applications](./opinions/0137.md)
 
 ## State Machines
 

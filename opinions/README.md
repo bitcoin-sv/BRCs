@@ -13,3 +13,4 @@ BRC  | Standard
 90   | [Thoughts on the Mandala Network](./0090.md)
 91   | [Outputs, Overlays, and Scripts in the Mandala Network](./0091.md)
 110  | [Zero-Friction, Mobile-First Onboarding for MetaNet-Enabled Apps](./0110.md)
+137  | [Device-Aware Wallet Onboarding and Fallback Login for BRC-100 Applications](./0137.md)
